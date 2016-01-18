@@ -1,0 +1,2551 @@
+Archive member included because of file (symbol)
+
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-atoi.o)
+                              fresh.o (atoi)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-environ.o)
+                              fresh.o (environ)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-exit.o)
+                              fresh.o (exit)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fprintf.o)
+                              binutils.o (fprintf)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getenv.o)
+                              fresh.o (getenv)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getenv_r.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getenv.o) (_findenv_r)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getopt.o)
+                              binutils.o (optarg)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-impure.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-exit.o) (_global_impure_ptr)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-locale.o)
+                              binutils.o (setlocale)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-malloc.o)
+                              init_bflt.o (malloc)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-mallocr.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-malloc.o) (_malloc_r)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memcmp.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getopt.o) (memcmp)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memcpy-stub.o)
+                              binutils.o (memcpy)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memset.o)
+                              fresh.o (memset)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-mlock.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-mallocr.o) (__malloc_lock)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fprintf.o) (_vfprintf_r)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-printf.o)
+                              init_bflt.o (printf)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-sbrkr.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-mallocr.o) (_sbrk_r)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-setenv.o)
+                              fresh.o (setenv)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-setenv_r.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-setenv.o) (_setenv_r)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-signal.o)
+                              fresh.o (signal)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-signalr.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-signal.o) (_kill_r)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-snprintf.o)
+                              binutils.o (snprintf)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strchr.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getopt.o) (strchr)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strcmp.o)
+                              fresh.o (strcmp)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strcpy.o)
+                              fresh.o (strcpy)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strlen.o)
+                              init_bflt.o (strlen)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncat.o)
+                              binutils.o (strncat)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncmp.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getenv_r.o) (strncmp)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncpy.o)
+                              fresh.o (strncpy)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtok.o)
+                              fresh.o (strtok)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtok_r.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtok.o) (__strtok_r)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtol.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-atoi.o) (_strtol_r)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-tolower.o)
+                              binutils.o (tolower)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wbuf.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf.o) (__swbuf_r)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wsetup.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf.o) (__swsetup_r)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-__call_atexit.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-exit.o) (__call_exitprocs)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-ctype_.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtol.o) (__ctype_ptr__)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-envlock.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getenv_r.o) (__env_lock)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-errno.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-setenv_r.o) (__errno)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fflush.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wbuf.o) (_fflush_r)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-findfp.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf.o) (__sinit)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputc.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getopt.o) (fputc)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputs.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getopt.o) (fputs)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputwc.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf.o) (_fputwc_r)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-freer.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-malloc.o) (_free_r)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fvwrite.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf.o) (__sfvwrite_r)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fwalk.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-findfp.o) (_fwalk)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-makebuf.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wsetup.o) (__smakebuf_r)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memchr-stub.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf.o) (memchr)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memmove.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fvwrite.o) (memmove)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-svfprintf.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-snprintf.o) (_svfprintf_r)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf_i.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf.o) (_printf_i)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-putc.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputc.o) (_putc_r)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-reallocr.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-setenv_r.o) (_realloc_r)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-reent.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-sbrkr.o) (errno)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-stdio.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-findfp.o) (__sread)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wcrtomb.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputwc.o) (_wcrtomb_r)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wctomb_r.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wcrtomb.o) (__wctomb)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-writer.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-stdio.o) (_write_r)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-closer.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-stdio.o) (_close_r)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fclose.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-findfp.o) (_fclose_r)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fstatr.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-makebuf.o) (_fstat_r)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-isattyr.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-makebuf.o) (_isatty_r)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-lseekr.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-stdio.o) (_lseek_r)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-readr.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-stdio.o) (_read_r)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(chdir.o)
+                              fresh.o (chdir)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(close.o)
+                              init_bflt.o (close)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(closedir.o)
+                              binutils.o (closedir)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(crt0.o)
+                              (_start)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(dup2.o)
+                              fresh.o (dup2)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(dup.o)
+                              fresh.o (dup)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(exec.o)
+                              fresh.o (execvp)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(exit.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-exit.o) (_exit)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(getcwd.o)
+                              fresh.o (getcwd)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(getpid.o)
+                              init_bflt.o (getpid)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(getppid.o)
+                              init_bflt.o (getppid)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(isatty.o)
+                              init_bflt.o (isatty)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(kill.o)
+                              fresh.o (kill)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(link.o)
+                              binutils.o (link)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(mkdir.o)
+                              init_bflt.o (mkdir)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(open.o)
+                              init_bflt.o (open)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(opendir.o)
+                              binutils.o (opendir)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(pipe.o)
+                              fresh.o (pipe)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(read.o)
+                              init_bflt.o (read)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(readdir.o)
+                              binutils.o (readdir)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(sleep.o)
+                              init_bflt.o (sleep)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(socket.o)
+                              init_bflt.o (socket)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(stat.o)
+                              fresh.o (stat)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(syscalls.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-closer.o) (_close)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(syscall_table.o)
+                              ../newlib/build/lib/arm-frosted/lib/libgloss.a(sleep.o) (sys_sleep)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(tcgetattr.o)
+                              fresh.o (tcgetattr)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(unlink.o)
+                              init_bflt.o (unlink)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(vfork.o)
+                              init_bflt.o (vfork)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(wait.o)
+                              init_bflt.o (wait)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(waitpid.o)
+                              fresh.o (waitpid)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(write.o)
+                              init_bflt.o (write)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(fork.o)
+                              ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscalls.o) (fork)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(fstat.o)
+                              ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscalls.o) (fstat)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(lseek.o)
+                              ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscalls.o) (lseek)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(syscall.o)
+                              ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscall_table.o) (syscall)
+../newlib/build/lib/arm-frosted/lib/libgloss.a(svc.o)
+                              ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscall.o) (_syscall)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-calloc.o)
+                              ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscalls.o) (calloc)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-callocr.o)
+                              ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-calloc.o) (_calloc_r)
+../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-realloc.o)
+                              ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscalls.o) (realloc)
+/opt/toolchains/gcc-arm/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libg_nano.a(lib_a-sysgettod.o)
+                              init_bflt.o (gettimeofday)
+/opt/toolchains/gcc-arm/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libg_nano.a(lib_a-gettimeofdayr.o)
+                              /opt/toolchains/gcc-arm/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libg_nano.a(lib_a-sysgettod.o) (_gettimeofday_r)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flatmem          0x00000000         0x0fffffff
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD init_bflt.o
+LOAD fresh.o
+LOAD binutils.o
+LOAD stubs.o
+START GROUP
+LOAD ../newlib/build/lib/arm-frosted/lib/libc.a
+LOAD ../newlib/build/lib/arm-frosted/lib/libg.a
+LOAD ../newlib/build/lib/arm-frosted/lib/libgloss.a
+LOAD ../newlib/build/lib/arm-frosted/lib/libm.a
+END GROUP
+START GROUP
+LOAD /opt/toolchains/gcc-arm/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a
+LOAD /opt/toolchains/gcc-arm/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libg_nano.a
+LOAD /opt/toolchains/gcc-arm/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a
+END GROUP
+START GROUP
+LOAD /opt/toolchains/gcc-arm/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m/libgcc.a
+LOAD /opt/toolchains/gcc-arm/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libc_nano.a
+END GROUP
+
+.text           0x00000000     0x7f60
+                0x00000004                . = (. + 0x4)
+ *fill*         0x00000000        0x4 
+                0x00000004                . = ALIGN (0x4)
+                0x00000004                _stext = .
+ *(.text)
+ .text          0x00000004        0x0 init_bflt.o
+ .text          0x00000004        0x0 fresh.o
+ .text          0x00000004        0x0 binutils.o
+ .text          0x00000004        0x0 stubs.o
+ .text          0x00000004       0x28 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-atoi.o)
+                0x00000004                atoi
+                0x00000018                _atoi_r
+ .text          0x0000002c        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-environ.o)
+ .text          0x0000002c       0x34 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-exit.o)
+                0x0000002c                exit
+ .text          0x00000060       0x54 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fprintf.o)
+                0x00000060                _fprintf_r
+                0x00000060                _fiprintf_r
+                0x00000084                fprintf
+                0x00000084                fiprintf
+ .text          0x000000b4       0x48 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getenv.o)
+                0x000000b4                _findenv
+                0x000000d8                getenv
+ .text          0x000000fc       0xb0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getenv_r.o)
+                0x000000fc                _findenv_r
+                0x00000194                _getenv_r
+ .text          0x000001ac      0x744 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getopt.o)
+                0x00000804                getopt
+                0x00000836                getopt_long
+                0x00000872                getopt_long_only
+                0x000008ae                __getopt_r
+                0x000008c2                __getopt_long_r
+                0x000008d8                __getopt_long_only_r
+ .text          0x000008f0        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-impure.o)
+ .text          0x000008f0       0xe8 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-locale.o)
+                0x000008f0                _setlocale_r
+                0x0000094c                __locale_charset
+                0x00000960                __locale_mb_cur_max
+                0x00000970                __locale_msgcharset
+                0x00000980                __locale_cjk_lang
+                0x00000984                _localeconv_r
+                0x00000998                setlocale
+                0x000009bc                localeconv
+ .text          0x000009d8       0x40 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-malloc.o)
+                0x000009d8                malloc
+                0x000009f8                free
+ .text          0x00000a18      0x444 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-mallocr.o)
+                0x00000a18                _malloc_r
+ .text          0x00000e5c       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memcmp.o)
+                0x00000e5c                memcmp
+ .text          0x00000e7c       0x16 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memcpy-stub.o)
+                0x00000e7c                memcpy
+ .text          0x00000e92       0x10 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memset.o)
+                0x00000e92                memset
+ .text          0x00000ea2        0x4 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-mlock.o)
+                0x00000ea2                __malloc_lock
+                0x00000ea4                __malloc_unlock
+ *fill*         0x00000ea6        0x2 
+ .text          0x00000ea8      0x34c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf.o)
+                0x00000edc                __sfputs_r
+                0x00000f30                __sprint_r
+                0x00000fa4                _vfiprintf_r
+                0x00000fa4                _vfprintf_r
+                0x000011cc                vfiprintf
+                0x000011cc                vfprintf
+ .text          0x000011f4       0x54 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-printf.o)
+                0x000011f4                _printf_r
+                0x000011f4                _iprintf_r
+                0x00001218                printf
+                0x00001218                iprintf
+ .text          0x00001248       0x2c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-sbrkr.o)
+                0x00001248                _sbrk_r
+ .text          0x00001274       0x48 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-setenv.o)
+                0x00001274                setenv
+                0x0000129c                unsetenv
+ .text          0x000012bc      0x220 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-setenv_r.o)
+                0x000012bc                _setenv_r
+                0x0000144c                _unsetenv_r
+ .text          0x000014dc      0x1b4 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-signal.o)
+                0x000014dc                _init_signal_r
+                0x00001518                _signal_r
+                0x00001554                _raise_r
+                0x000015b8                __sigtramp_r
+                0x00001610                raise
+                0x00001630                signal
+                0x00001654                _init_signal
+                0x00001670                __sigtramp
+ .text          0x00001690       0x40 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-signalr.o)
+                0x00001690                _kill_r
+                0x000016c0                _getpid_r
+ .text          0x000016d0       0xd4 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-snprintf.o)
+                0x000016d0                _sniprintf_r
+                0x000016d0                _snprintf_r
+                0x00001734                snprintf
+                0x00001734                sniprintf
+ .text          0x000017a4       0x1c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strchr.o)
+                0x000017a4                strchr
+ .text          0x000017c0       0x14 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strcmp.o)
+                0x000017c0                strcmp
+ .text          0x000017d4       0x10 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strcpy.o)
+                0x000017d4                strcpy
+ .text          0x000017e4       0x10 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strlen.o)
+                0x000017e4                strlen
+ .text          0x000017f4       0x28 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncat.o)
+                0x000017f4                strncat
+ .text          0x0000181c       0x32 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncmp.o)
+                0x0000181c                strncmp
+ .text          0x0000184e       0x24 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncpy.o)
+                0x0000184e                strncpy
+ *fill*         0x00001872        0x2 
+ .text          0x00001874       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtok.o)
+                0x00001874                strtok
+ .text          0x00001894       0x68 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtok_r.o)
+                0x00001894                __strtok_r
+                0x000018ea                strtok_r
+ .text          0x000018fc      0x138 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtol.o)
+                0x000018fc                _strtol_r
+                0x00001a0c                strtol
+ .text          0x00001a34       0x1c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-tolower.o)
+                0x00001a34                tolower
+ .text          0x00001a50       0xd4 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wbuf.o)
+                0x00001a50                __swbuf_r
+                0x00001b00                __swbuf
+ .text          0x00001b24       0xc8 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wsetup.o)
+                0x00001b24                __swsetup_r
+ .text          0x00001bec       0xc0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-__call_atexit.o)
+                0x00001bec                __call_exitprocs
+ .text          0x00001cac        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-ctype_.o)
+ .text          0x00001cac        0x4 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-envlock.o)
+                0x00001cac                __env_lock
+                0x00001cae                __env_unlock
+ .text          0x00001cb0       0x10 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-errno.o)
+                0x00001cb0                __errno
+ .text          0x00001cc0      0x18c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fflush.o)
+                0x00001cc0                __sflush_r
+                0x00001de0                _fflush_r
+                0x00001e10                fflush
+ .text          0x00001e4c      0x278 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-findfp.o)
+                0x00001e54                _cleanup_r
+                0x00001ed8                __sfmoreglue
+                0x00001f14                _cleanup
+                0x00001f30                __sfp_lock_acquire
+                0x00001f32                __sfp_lock_release
+                0x00001f34                __sinit_lock_acquire
+                0x00001f36                __sinit_lock_release
+                0x00001f38                __sinit
+                0x00001f98                __sfp
+                0x0000204c                __fp_lock_all
+                0x00002088                __fp_unlock_all
+ .text          0x000020c4       0x54 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputc.o)
+                0x000020c4                _fputc_r
+                0x000020f4                fputc
+ .text          0x00002118       0x88 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputs.o)
+                0x00002118                _fputs_r
+                0x0000217c                fputs
+ .text          0x000021a0      0x118 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputwc.o)
+                0x000021a0                __fputwc
+                0x00002254                _fputwc_r
+                0x0000227c                fputwc
+ .text          0x000022b8      0x258 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-freer.o)
+                0x000022b8                _malloc_trim_r
+                0x0000237c                _free_r
+ .text          0x00002510      0x314 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fvwrite.o)
+                0x00002510                __sfvwrite_r
+ .text          0x00002824       0x74 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fwalk.o)
+                0x00002824                _fwalk
+                0x0000285c                _fwalk_reent
+ .text          0x00002898       0xe8 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-makebuf.o)
+                0x00002898                __smakebuf_r
+ .text          0x00002980       0x1c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memchr-stub.o)
+                0x00002980                memchr
+ .text          0x0000299c       0x36 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memmove.o)
+                0x0000299c                memmove
+ *fill*         0x000029d2        0x2 
+ .text          0x000029d4      0x42c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-svfprintf.o)
+                0x000029d4                __ssputs_r
+                0x00002ab0                __ssprint_r
+                0x00002be8                _svfprintf_r
+                0x00002be8                _svfiprintf_r
+ .text          0x00002e00      0x33c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf_i.o)
+                0x00002e00                _printf_common
+                0x00002eda                _printf_i
+ .text          0x0000313c       0x80 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-putc.o)
+                0x0000313c                _putc_r
+                0x00003198                putc
+ .text          0x000031bc      0x3a0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-reallocr.o)
+                0x000031bc                _realloc_r
+ .text          0x0000355c       0xcc ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-reent.o)
+                0x0000355c                cleanup_glue
+                0x00003584                _reclaim_reent
+ .text          0x00003628       0xb8 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-stdio.o)
+                0x00003628                __sread
+                0x00003654                __seofread
+                0x00003658                __swrite
+                0x000036a0                __sseek
+                0x000036cc                __sclose
+ .text          0x000036e0       0x7c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wcrtomb.o)
+                0x000036e0                _wcrtomb_r
+                0x00003734                wcrtomb
+ .text          0x0000375c       0x54 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wctomb_r.o)
+                0x0000375c                __ascii_wctomb
+                0x00003776                _wctomb_r
+ .text          0x000037b0       0x30 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-writer.o)
+                0x000037b0                _write_r
+ .text          0x000037e0       0x2c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-closer.o)
+                0x000037e0                _close_r
+ .text          0x0000380c       0xcc ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fclose.o)
+                0x0000380c                _fclose_r
+                0x000038b8                fclose
+ .text          0x000038d8       0x30 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fstatr.o)
+                0x000038d8                _fstat_r
+ .text          0x00003908       0x2c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-isattyr.o)
+                0x00003908                _isatty_r
+ .text          0x00003934       0x30 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-lseekr.o)
+                0x00003934                _lseek_r
+ .text          0x00003964       0x30 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-readr.o)
+                0x00003964                _read_r
+ .text          0x00003994       0x10 ../newlib/build/lib/arm-frosted/lib/libgloss.a(chdir.o)
+                0x00003994                chdir
+ .text          0x000039a4       0x10 ../newlib/build/lib/arm-frosted/lib/libgloss.a(close.o)
+                0x000039a4                close
+ .text          0x000039b4       0x10 ../newlib/build/lib/arm-frosted/lib/libgloss.a(closedir.o)
+                0x000039b4                closedir
+ .text          0x000039c4       0x1c ../newlib/build/lib/arm-frosted/lib/libgloss.a(crt0.o)
+                0x000039c4                _start
+ .text          0x000039e0       0x10 ../newlib/build/lib/arm-frosted/lib/libgloss.a(dup2.o)
+                0x000039e0                dup2
+ .text          0x000039f0       0x10 ../newlib/build/lib/arm-frosted/lib/libgloss.a(dup.o)
+                0x000039f0                dup
+ .text          0x00003a00       0x50 ../newlib/build/lib/arm-frosted/lib/libgloss.a(exec.o)
+                0x00003a00                exec
+                0x00003a10                execve
+                0x00003a20                execvp
+                0x00003a30                execv
+                0x00003a40                execb
+ .text          0x00003a50       0x10 ../newlib/build/lib/arm-frosted/lib/libgloss.a(exit.o)
+                0x00003a50                _exit
+ .text          0x00003a60       0x10 ../newlib/build/lib/arm-frosted/lib/libgloss.a(getcwd.o)
+                0x00003a60                getcwd
+ .text          0x00003a70       0x10 ../newlib/build/lib/arm-frosted/lib/libgloss.a(getpid.o)
+                0x00003a70                getpid
+ .text          0x00003a80       0x10 ../newlib/build/lib/arm-frosted/lib/libgloss.a(getppid.o)
+                0x00003a80                getppid
+ .text          0x00003a90       0x10 ../newlib/build/lib/arm-frosted/lib/libgloss.a(isatty.o)
+                0x00003a90                isatty
+ .text          0x00003aa0       0x10 ../newlib/build/lib/arm-frosted/lib/libgloss.a(kill.o)
+                0x00003aa0                kill
+ .text          0x00003ab0       0x10 ../newlib/build/lib/arm-frosted/lib/libgloss.a(link.o)
+                0x00003ab0                link
+ .text          0x00003ac0       0x10 ../newlib/build/lib/arm-frosted/lib/libgloss.a(mkdir.o)
+                0x00003ac0                mkdir
+ .text          0x00003ad0       0x10 ../newlib/build/lib/arm-frosted/lib/libgloss.a(open.o)
+                0x00003ad0                open
+ .text          0x00003ae0       0x10 ../newlib/build/lib/arm-frosted/lib/libgloss.a(opendir.o)
+                0x00003ae0                opendir
+ .text          0x00003af0       0x24 ../newlib/build/lib/arm-frosted/lib/libgloss.a(pipe.o)
+                0x00003af0                pipe2
+                0x00003b00                pipe
+ .text          0x00003b14       0x10 ../newlib/build/lib/arm-frosted/lib/libgloss.a(read.o)
+                0x00003b14                read
+ .text          0x00003b24       0x10 ../newlib/build/lib/arm-frosted/lib/libgloss.a(readdir.o)
+                0x00003b24                readdir
+ .text          0x00003b34       0x10 ../newlib/build/lib/arm-frosted/lib/libgloss.a(sleep.o)
+                0x00003b34                sleep
+ .text          0x00003b44       0x10 ../newlib/build/lib/arm-frosted/lib/libgloss.a(socket.o)
+                0x00003b44                socket
+ .text          0x00003b54       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(stat.o)
+                0x00003b54                stat
+                0x00003b64                lstat
+ .text          0x00003b74      0x140 ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscalls.o)
+                0x00003b74                _close
+                0x00003b84                _execve
+                0x00003b94                _fork
+                0x00003ba4                _fstat
+                0x00003bb4                _getpid
+                0x00003bc4                _isatty
+                0x00003bd4                _kill
+                0x00003be4                _link
+                0x00003bf4                _lseek
+                0x00003c04                _open
+                0x00003c14                _read
+                0x00003c24                _sbrk
+                0x00003c28                _stat
+                0x00003c38                _times
+                0x00003c3c                _unlink
+                0x00003c4c                _wait
+                0x00003c5c                _write
+                0x00003c6c                _realloc
+                0x00003c7c                _calloc
+                0x00003c8c                _malloc
+                0x00003c9c                _free
+                0x00003cac                _gettimeofday
+ .text          0x00003cb4      0x8a4 ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscall_table.o)
+                0x00003cb4                sys_setclock
+                0x00003cd4                sys_sleep
+                0x00003cf4                sys_suspend
+                0x00003d14                sys_thread_create
+                0x00003d38                sys_thread_join
+                0x00003d58                sys_test
+                0x00003d80                sys_getpid
+                0x00003da0                sys_getppid
+                0x00003dc0                sys_open
+                0x00003de4                sys_close
+                0x00003e04                sys_read
+                0x00003e28                sys_write
+                0x00003e4c                sys_seek
+                0x00003e70                sys_mkdir
+                0x00003e90                sys_unlink
+                0x00003eb0                sys_gettimeofday
+                0x00003ed0                sys_malloc
+                0x00003ef0                sys_free
+                0x00003f10                sys_calloc
+                0x00003f30                sys_realloc
+                0x00003f50                sys_opendir
+                0x00003f70                sys_readdir
+                0x00003f90                sys_closedir
+                0x00003fb0                sys_stat
+                0x00003fd0                sys_poll
+                0x00003ff4                sys_ioctl
+                0x00004018                sys_link
+                0x00004038                sys_chdir
+                0x00004058                sys_getcwd
+                0x00004078                sys_sem_init
+                0x00004098                sys_sem_post
+                0x000040b8                sys_sem_wait
+                0x000040d8                sys_sem_destroy
+                0x000040f8                sys_mutex_init
+                0x00004118                sys_mutex_unlock
+                0x00004138                sys_mutex_lock
+                0x00004158                sys_mutex_destroy
+                0x00004178                sys_socket
+                0x0000419c                sys_bind
+                0x000041bc                sys_accept
+                0x000041dc                sys_connect
+                0x000041fc                sys_listen
+                0x0000421c                sys_sendto
+                0x00004244                sys_recvfrom
+                0x0000426c                sys_setsockopt
+                0x00004294                sys_getsockopt
+                0x000042bc                sys_shutdown
+                0x000042dc                sys_dup
+                0x000042fc                sys_dup2
+                0x0000431c                sys_mount
+                0x00004344                sys_umount
+                0x00004364                sys_kill
+                0x00004384                sys_isatty
+                0x000043a4                sys_exec
+                0x000043c4                sys_execb
+                0x000043e4                sys_ttyname_r
+                0x00004408                sys_exit
+                0x00004428                sys_tcsetattr
+                0x0000444c                sys_tcgetattr
+                0x0000446c                sys_tcsendbreak
+                0x0000448c                sys_pipe2
+                0x000044ac                sys_sigaction
+                0x000044d0                sys_sigprocmask
+                0x000044f4                sys_sigsuspend
+                0x00004514                sys_vfork
+                0x00004534                sys_waitpid
+ .text          0x00004558       0x10 ../newlib/build/lib/arm-frosted/lib/libgloss.a(tcgetattr.o)
+                0x00004558                tcgetattr
+ .text          0x00004568       0x10 ../newlib/build/lib/arm-frosted/lib/libgloss.a(unlink.o)
+                0x00004568                unlink
+ .text          0x00004578       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(vfork.o)
+                0x00004578                vfork
+ .text          0x000045a0       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(wait.o)
+                0x000045a0                wait
+ .text          0x000045c8       0x10 ../newlib/build/lib/arm-frosted/lib/libgloss.a(waitpid.o)
+                0x000045c8                waitpid
+ .text          0x000045d8       0x10 ../newlib/build/lib/arm-frosted/lib/libgloss.a(write.o)
+                0x000045d8                write
+ .text          0x000045e8       0x14 ../newlib/build/lib/arm-frosted/lib/libgloss.a(fork.o)
+                0x000045e8                fork
+ .text          0x000045fc       0x14 ../newlib/build/lib/arm-frosted/lib/libgloss.a(fstat.o)
+                0x000045fc                fstat
+ .text          0x00004610       0x10 ../newlib/build/lib/arm-frosted/lib/libgloss.a(lseek.o)
+                0x00004610                lseek
+ .text          0x00004620       0x34 ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscall.o)
+                0x00004620                syscall
+ .text          0x00004654       0x10 ../newlib/build/lib/arm-frosted/lib/libgloss.a(svc.o)
+                0x00004654                _syscall
+ .text          0x00004664       0x24 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-calloc.o)
+                0x00004664                calloc
+ .text          0x00004688       0x6c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-callocr.o)
+                0x00004688                _calloc_r
+ .text          0x000046f4       0x24 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-realloc.o)
+                0x000046f4                realloc
+ .text          0x00004718        0x0 /opt/toolchains/gcc-arm/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libg_nano.a(lib_a-sysgettod.o)
+ .text          0x00004718        0x0 /opt/toolchains/gcc-arm/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libg_nano.a(lib_a-gettimeofdayr.o)
+ *(.text.*)
+ .text.task2    0x00004718      0x1f0 init_bflt.o
+                0x00004718                task2
+ .text.idling   0x00004908      0x12c init_bflt.o
+                0x00004908                idling
+ .text.main     0x00004a34      0x138 init_bflt.o
+                0x00004a34                main
+ .text.exec_binutils
+                0x00004b6c       0x24 fresh.o
+ .text.find_binutils
+                0x00004b90       0x4c fresh.o
+ .text.try_binutils
+                0x00004bdc       0x74 fresh.o
+ .text.shell_init
+                0x00004c50      0x1e8 fresh.o
+                0x00004c50                shell_init
+ .text.welcomeScreen
+                0x00004e38       0x84 fresh.o
+                0x00004e38                welcomeScreen
+ .text.signalHandler_child
+                0x00004ebc       0x44 fresh.o
+                0x00004ebc                signalHandler_child
+ .text.signalHandler_int
+                0x00004f00       0x78 fresh.o
+                0x00004f00                signalHandler_int
+ .text.shellPrompt
+                0x00004f78       0x68 fresh.o
+                0x00004f78                shellPrompt
+ .text.changeDirectory
+                0x00004fe0       0x88 fresh.o
+                0x00004fe0                changeDirectory
+ .text.manageEnviron
+                0x00005068       0x18 fresh.o
+                0x00005068                manageEnviron
+ .text.launchProg
+                0x00005080      0x194 fresh.o
+                0x00005080                launchProg
+ .text.fileIO   0x00005214      0x1f4 fresh.o
+                0x00005214                fileIO
+ .text.pipeHandler
+                0x00005408      0x334 fresh.o
+                0x00005408                pipeHandler
+ .text.commandHandler
+                0x0000573c      0x5a8 fresh.o
+                0x0000573c                commandHandler
+ .text.readline
+                0x00005ce4      0x330 fresh.o
+                0x00005ce4                readline
+ .text.fresh    0x00006014      0x170 fresh.o
+                0x00006014                fresh
+ .text.nargs    0x00006184       0x30 binutils.o
+                0x00006184                nargs
+ .text.inputline
+                0x000061b4      0x1c8 binutils.o
+                0x000061b4                inputline
+ .text.parse_interval
+                0x0000637c       0xc4 binutils.o
+                0x0000637c                parse_interval
+ .text.bin_ls   0x00006440      0x1e4 binutils.o
+                0x00006440                bin_ls
+ .text.bin_ln   0x00006624       0x64 binutils.o
+                0x00006624                bin_ln
+ .text.bin_rm   0x00006688       0x5c binutils.o
+                0x00006688                bin_rm
+ .text.bin_mkdir
+                0x000066e4       0x60 binutils.o
+                0x000066e4                bin_mkdir
+ .text.bin_touch
+                0x00006744       0x74 binutils.o
+                0x00006744                bin_touch
+ .text.bin_echo
+                0x000067b8       0x88 binutils.o
+                0x000067b8                bin_echo
+ .text.bin_cat  0x00006840       0xc8 binutils.o
+                0x00006840                bin_cat
+ .text.rand     0x00006908       0x54 binutils.o
+                0x00006908                rand
+ .text.roll     0x0000695c       0x74 binutils.o
+                0x0000695c                roll
+ .text.bin_dice
+                0x000069d0      0x1d4 binutils.o
+                0x000069d0                bin_dice
+ .text.bin_random
+                0x00006ba4       0x48 binutils.o
+                0x00006ba4                bin_random
+ .text.bin_dirname
+                0x00006bec      0x1f0 binutils.o
+                0x00006bec                bin_dirname
+ .text.bin_tee  0x00006ddc      0x3a0 binutils.o
+                0x00006ddc                bin_tee
+ .text.bin_true
+                0x0000717c       0x20 binutils.o
+                0x0000717c                bin_true
+ .text.bin_false
+                0x0000719c       0x20 binutils.o
+                0x0000719c                bin_false
+ .text.bin_arch
+                0x000071bc       0x44 binutils.o
+                0x000071bc                bin_arch
+ .text.bin_wc   0x00007200      0x138 binutils.o
+                0x00007200                bin_wc
+ .text.bin_cut  0x00007338      0x4b4 binutils.o
+                0x00007338                bin_cut
+ .text.dits     0x000077ec       0x60 binutils.o
+                0x000077ec                dits
+ .text.dahs     0x0000784c       0x60 binutils.o
+                0x0000784c                dahs
+ .text.bin_morse
+                0x000078ac      0x5f8 binutils.o
+                0x000078ac                bin_morse
+ .text.setpgid  0x00007ea4       0x28 stubs.o
+                0x00007ea4                setpgid
+ .text.tcgetpgrp
+                0x00007ecc       0x20 stubs.o
+                0x00007ecc                tcgetpgrp
+ .text.tcsetpgrp
+                0x00007eec       0x18 stubs.o
+                0x00007eec                tcsetpgrp
+ .text.getpgrp  0x00007f04       0x18 stubs.o
+                0x00007f04                getpgrp
+ .text.gettimeofday
+                0x00007f1c       0x14 /opt/toolchains/gcc-arm/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libg_nano.a(lib_a-sysgettod.o)
+                0x00007f1c                gettimeofday
+ .text._gettimeofday_r
+                0x00007f30       0x24 /opt/toolchains/gcc-arm/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libg_nano.a(lib_a-gettimeofdayr.o)
+                0x00007f30                _gettimeofday_r
+ *(.gnu.warning)
+ *(.stub)
+ *(.gnu.linkonce.t*)
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.jcr)
+ *(.init)
+ *(.fini)
+                0x00007f54                . = ALIGN (0x4)
+                0x00007f54                PROVIDE (__ctbp, .)
+ *(.call_table_data)
+ *(.call_table_text)
+                0x00007f60                . = ALIGN (0x20)
+ *fill*         0x00007f54        0xc 
+                0x00007f60                _etext = .
+
+.vfp11_veneer   0x00007f60        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x00007f60        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x00007f60        0x0
+ .iplt          0x00000000        0x0 init_bflt.o
+
+.data           0x00007f60     0x1af8
+                0x00007f60                . = ALIGN (0x4)
+                0x00007f60                _sdata = .
+                0x00007f60                __data_start = .
+                0x00007f60                data_start = .
+ *(.got.plt)
+ .got.plt       0x00007f60        0xc init_bflt.o
+                0x00007f60                _GLOBAL_OFFSET_TABLE_
+ *(.got)
+ .got           0x00007f6c      0x5b0 init_bflt.o
+ FILL mask 0x00000000
+                0x00008520                . = ALIGN (0x20)
+ *fill*         0x0000851c        0x4 00000000
+                0x00008520        0x4 LONG 0xffffffff
+                0x00008540                . = ALIGN (0x20)
+ *fill*         0x00008524       0x1c 00000000
+ *(.rodata)
+ .rodata        0x00008540       0x86 init_bflt.o
+ *fill*         0x000085c6        0x2 
+ .rodata        0x000085c8      0x319 fresh.o
+ *fill*         0x000088e1        0x3 
+ .rodata        0x000088e4      0x458 binutils.o
+ .rodata        0x00008d3c      0x101 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-ctype_.o)
+                0x00008d3c                _ctype_
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.str1.1
+                0x00008e3d       0x81 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getopt.o)
+                                 0x84 (size before relaxing)
+ .rodata.str1.1
+                0x00008ebe        0x2 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-impure.o)
+ .rodata.str1.1
+                0x00008ec0        0x8 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-locale.o)
+                                  0xb (size before relaxing)
+ .rodata.str1.1
+                0x00008ec8       0x11 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf.o)
+ .rodata.str1.1
+                0x00000000       0x11 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-svfprintf.o)
+ .rodata.str1.1
+                0x00008ed9       0x22 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf_i.o)
+ *(.gnu.linkonce.r*)
+ *(.data)
+ .data          0x00008efb        0x0 init_bflt.o
+ .data          0x00008efb        0x0 fresh.o
+ .data          0x00008efb        0x0 binutils.o
+ .data          0x00008efb        0x0 stubs.o
+ .data          0x00008efb        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-atoi.o)
+ .data          0x00008efb        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-environ.o)
+ .data          0x00008efb        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-exit.o)
+ .data          0x00008efb        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fprintf.o)
+ .data          0x00008efb        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getenv.o)
+ .data          0x00008efb        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getenv_r.o)
+ *fill*         0x00008efb        0x1 
+ .data          0x00008efc        0x8 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getopt.o)
+                0x00008efc                optopt
+                0x00008f00                opterr
+ .data          0x00008f04        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-impure.o)
+ .data          0x00008f04       0x44 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-locale.o)
+                0x00008f44                __mb_cur_max
+ .data          0x00008f48        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-malloc.o)
+ .data          0x00008f48        0x8 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-mallocr.o)
+                0x00008f48                __malloc_sbrk_base
+                0x00008f4c                __malloc_trim_threshold
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memcmp.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memcpy-stub.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memset.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-mlock.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-printf.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-sbrkr.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-setenv.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-setenv_r.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-signal.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-signalr.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-snprintf.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strchr.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strcmp.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strcpy.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strlen.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncat.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncmp.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncpy.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtok.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtok_r.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtol.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-tolower.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wbuf.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wsetup.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-__call_atexit.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-ctype_.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-envlock.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-errno.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fflush.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-findfp.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputc.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputs.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputwc.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-freer.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fvwrite.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fwalk.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-makebuf.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memchr-stub.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memmove.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-svfprintf.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf_i.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-putc.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-reallocr.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-reent.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-stdio.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wcrtomb.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wctomb_r.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-writer.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-closer.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fclose.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fstatr.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-isattyr.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-lseekr.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-readr.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(chdir.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(close.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(closedir.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(crt0.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(dup2.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(dup.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(exec.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(exit.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(getcwd.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(getpid.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(getppid.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(isatty.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(kill.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(link.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(mkdir.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(open.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(opendir.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(pipe.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(read.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(readdir.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(sleep.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(socket.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(stat.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscalls.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscall_table.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(tcgetattr.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(unlink.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(vfork.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(wait.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(waitpid.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(write.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(fork.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(fstat.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(lseek.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscall.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(svc.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-calloc.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-callocr.o)
+ .data          0x00008f50        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-realloc.o)
+ .data          0x00008f50        0x0 /opt/toolchains/gcc-arm/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libg_nano.a(lib_a-sysgettod.o)
+ .data          0x00008f50        0x0 /opt/toolchains/gcc-arm/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libg_nano.a(lib_a-gettimeofdayr.o)
+ *(.data1)
+ *(.data.*)
+ .data.rel.ro   0x00008f50      0x288 fresh.o
+                0x00008f50                bin_table
+ .data.rel.local
+                0x000091d8        0x4 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-environ.o)
+                0x000091d8                environ
+ .data.rel.ro.local
+                0x000091dc        0x4 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-impure.o)
+                0x000091dc                _global_impure_ptr
+ .data.rel.local
+                0x000091e0      0x430 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-impure.o)
+                0x000091e0                _impure_ptr
+ .data.rel.local
+                0x00009610       0x38 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-locale.o)
+ .data.rel      0x00009648      0x408 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-mallocr.o)
+                0x00009648                __malloc_av_
+ .data.rel      0x00009a50        0x4 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-ctype_.o)
+                0x00009a50                __ctype_ptr__
+ .data.rel      0x00009a54        0x4 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wctomb_r.o)
+                0x00009a54                __wctomb
+ *(.gnu.linkonce.d*)
+                0x00009a58                _ssrw = .
+ *(.sdata)
+ *(.sdata.*)
+ *(.sbss)
+ *(.gnu.linkonce.sb*)
+                0x00009a58                _essrw = .
+                0x00000000                _ssrw_size = (_essrw - _ssrw)
+                0x00001af8                PROVIDE (_SDA_BASE_, (_ssrw + (_ssrw_size / 0x2)))
+ *(.gnu.linkonce.s.*)
+ *(__libc_atexit)
+ *(__libc_subinit)
+ *(__libc_subfreeres)
+                0x00009a58                _ssro = .
+ *(.sdata2)
+                0x00009a58                _essro = .
+                0x00000000                _ssro_size = (_essro - _ssro)
+                0x00001af8                PROVIDE (_SDA2_BASE_, (_ssro + (_ssro_size / 0x2)))
+                0x00009a58                . = ALIGN (0x4)
+ *crtbegin*.o(.ctors)
+ *(EXCLUDE_FILE(*crtend*.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin*.o(.dtors)
+ *(EXCLUDE_FILE(*crtend*.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+                0x00009a58                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x00009a58                PROVIDE (__preinit_array_end, .)
+                0x00009a58                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array)
+                0x00009a58                PROVIDE (__init_array_end, .)
+                0x00009a58                PROVIDE (__fini_array_start, .)
+ *(.fini_array)
+ *(SORT(.fini_array.*))
+                0x00009a58                PROVIDE (__fini_array_end, .)
+
+.igot.plt       0x00009a58        0x0
+ .igot.plt      0x00000000        0x0 init_bflt.o
+
+.note.ABI-tag
+ *(.note.ABI-tag)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table)
+ *(.gcc_except_table.*)
+                0x00009a60                . = ALIGN (0x10)
+                0x00009a60                _edata = .
+
+.bss            0x00009a58      0x1b8
+                0x00009a58                . = ALIGN (0x4)
+                0x00009a58                _sbss = ALIGN (0x4)
+                0x00009a58                __bss_start = .
+ *(.dynsbss)
+ *(.sbss)
+ *(.sbss.*)
+ *(.scommon)
+ *(.dynbss)
+ *(.bss)
+ .bss           0x00009a58        0x0 init_bflt.o
+ .bss           0x00009a58      0x154 fresh.o
+                0x00009a7c                act_child
+                0x00009a90                act_int
+                0x00009aa4                no_reprint_prmpt
+                0x00009aa8                pid
+ .bss           0x00009bac        0x0 binutils.o
+ .bss           0x00009bac        0x0 stubs.o
+ .bss           0x00009bac        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-atoi.o)
+ .bss           0x00009bac        0x4 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-environ.o)
+ .bss           0x00009bb0        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-exit.o)
+ .bss           0x00009bb0        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fprintf.o)
+ .bss           0x00009bb0        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getenv.o)
+ .bss           0x00009bb0        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getenv_r.o)
+ .bss           0x00009bb0        0xc ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getopt.o)
+                0x00009bb4                optind
+                0x00009bb8                optarg
+ .bss           0x00009bbc        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-impure.o)
+ .bss           0x00009bbc        0xc ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-locale.o)
+                0x00009bbc                _PathLocale
+                0x00009bc0                __mlocale_changed
+                0x00009bc4                __nlocale_changed
+ .bss           0x00009bc8        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-malloc.o)
+ .bss           0x00009bc8       0x34 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-mallocr.o)
+                0x00009bc8                __malloc_current_mallinfo
+                0x00009bf0                __malloc_max_total_mem
+                0x00009bf4                __malloc_max_sbrked_mem
+                0x00009bf8                __malloc_top_pad
+ .bss           0x00009bfc        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memcmp.o)
+ .bss           0x00009bfc        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memcpy-stub.o)
+ .bss           0x00009bfc        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memset.o)
+ .bss           0x00009bfc        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-mlock.o)
+ .bss           0x00009bfc        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf.o)
+ .bss           0x00009bfc        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-printf.o)
+ .bss           0x00009bfc        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-sbrkr.o)
+ .bss           0x00009bfc        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-setenv.o)
+ .bss           0x00009bfc        0x4 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-setenv_r.o)
+ .bss           0x00009c00        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-signal.o)
+ .bss           0x00009c00        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-signalr.o)
+ .bss           0x00009c00        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-snprintf.o)
+ .bss           0x00009c00        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strchr.o)
+ .bss           0x00009c00        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strcmp.o)
+ .bss           0x00009c00        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strcpy.o)
+ .bss           0x00009c00        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strlen.o)
+ .bss           0x00009c00        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncat.o)
+ .bss           0x00009c00        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncmp.o)
+ .bss           0x00009c00        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncpy.o)
+ .bss           0x00009c00        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtok.o)
+ .bss           0x00009c00        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtok_r.o)
+ .bss           0x00009c00        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtol.o)
+ .bss           0x00009c00        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-tolower.o)
+ .bss           0x00009c00        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wbuf.o)
+ .bss           0x00009c00        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wsetup.o)
+ .bss           0x00009c00        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-__call_atexit.o)
+ .bss           0x00009c00        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-ctype_.o)
+ .bss           0x00009c00        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-envlock.o)
+ .bss           0x00009c00        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-errno.o)
+ .bss           0x00009c00        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fflush.o)
+ .bss           0x00009c00        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-findfp.o)
+ .bss           0x00009c00        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputc.o)
+ .bss           0x00009c00        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputs.o)
+ .bss           0x00009c00        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputwc.o)
+ .bss           0x00009c00        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-freer.o)
+ .bss           0x00009c00        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fvwrite.o)
+ .bss           0x00009c00        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fwalk.o)
+ .bss           0x00009c00        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-makebuf.o)
+ .bss           0x00009c00        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memchr-stub.o)
+ .bss           0x00009c00        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memmove.o)
+ .bss           0x00009c00        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-svfprintf.o)
+ .bss           0x00009c00        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf_i.o)
+ .bss           0x00009c00        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-putc.o)
+ .bss           0x00009c00        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-reallocr.o)
+ .bss           0x00009c00        0x4 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-reent.o)
+                0x00009c00                errno
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-stdio.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wcrtomb.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wctomb_r.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-writer.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-closer.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fclose.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fstatr.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-isattyr.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-lseekr.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-readr.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(chdir.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(close.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(closedir.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(crt0.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(dup2.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(dup.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(exec.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(exit.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(getcwd.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(getpid.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(getppid.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(isatty.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(kill.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(link.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(mkdir.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(open.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(opendir.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(pipe.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(read.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(readdir.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(sleep.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(socket.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(stat.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscalls.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscall_table.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(tcgetattr.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(unlink.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(vfork.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(wait.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(waitpid.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(write.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(fork.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(fstat.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(lseek.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscall.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(svc.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-calloc.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-callocr.o)
+ .bss           0x00009c04        0x0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-realloc.o)
+ .bss           0x00009c04        0x0 /opt/toolchains/gcc-arm/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libg_nano.a(lib_a-sysgettod.o)
+ .bss           0x00009c04        0x0 /opt/toolchains/gcc-arm/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libg_nano.a(lib_a-gettimeofdayr.o)
+ *(.bss.*)
+ *(.bss*)
+ *(.gnu.linkonce.b*)
+ *(COMMON)
+                0x00009c10                . = ALIGN (0x10)
+ *fill*         0x00009c04        0xc 
+                0x00009c10                _ebss = .
+                0x00009c10                _end = .
+                0x00009c10                end = .
+
+.stack          0x00009c10        0x0
+                0x00009c10                . = ALIGN (0x4)
+                0x00009c10                _stack_start = .
+
+.junk           0x00000000        0x0
+ *(.rel*)
+ .rel.iplt      0x00000000        0x0 init_bflt.o
+ .rel.got       0x00000000        0x0 init_bflt.o
+ *(.rela*)
+
+/DISCARD/
+ *(.note.GNU-stack)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x70
+ *(.comment)
+ .comment       0x00000000       0x70 init_bflt.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 fresh.o
+ .comment       0x00000000       0x71 binutils.o
+ .comment       0x00000000       0x71 stubs.o
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-atoi.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-environ.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-exit.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fprintf.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getenv.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getenv_r.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getopt.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-impure.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-locale.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-malloc.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-mallocr.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memcmp.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memcpy-stub.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memset.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-mlock.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-printf.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-sbrkr.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-setenv.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-setenv_r.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-signal.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-signalr.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-snprintf.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strchr.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strcpy.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncat.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncmp.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncpy.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtok.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtok_r.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtol.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-tolower.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wbuf.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wsetup.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-__call_atexit.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-ctype_.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-envlock.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-errno.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fflush.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-findfp.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputc.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputs.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputwc.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-freer.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fvwrite.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fwalk.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-makebuf.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memchr-stub.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memmove.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-svfprintf.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf_i.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-putc.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-reallocr.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-reent.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-stdio.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wcrtomb.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wctomb_r.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-writer.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-closer.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fclose.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fstatr.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-isattyr.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-lseekr.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-readr.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libgloss.a(chdir.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libgloss.a(close.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libgloss.a(closedir.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libgloss.a(crt0.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libgloss.a(dup2.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libgloss.a(dup.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libgloss.a(exec.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libgloss.a(exit.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libgloss.a(getcwd.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libgloss.a(getpid.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libgloss.a(getppid.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libgloss.a(isatty.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libgloss.a(kill.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libgloss.a(link.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libgloss.a(mkdir.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libgloss.a(open.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libgloss.a(opendir.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libgloss.a(pipe.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libgloss.a(read.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libgloss.a(readdir.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libgloss.a(sleep.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libgloss.a(socket.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libgloss.a(stat.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscalls.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscall_table.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libgloss.a(tcgetattr.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libgloss.a(unlink.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libgloss.a(vfork.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libgloss.a(wait.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libgloss.a(waitpid.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libgloss.a(write.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libgloss.a(fork.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libgloss.a(fstat.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libgloss.a(lseek.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscall.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-calloc.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-callocr.o)
+ .comment       0x00000000       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-realloc.o)
+
+.ARM.attributes
+                0x00000000       0x31
+ .ARM.attributes
+                0x00000000       0x33 init_bflt.o
+ .ARM.attributes
+                0x00000033       0x33 fresh.o
+ .ARM.attributes
+                0x00000066       0x33 binutils.o
+ .ARM.attributes
+                0x00000099       0x33 stubs.o
+ .ARM.attributes
+                0x000000cc       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-atoi.o)
+ .ARM.attributes
+                0x000000ff       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-environ.o)
+ .ARM.attributes
+                0x00000132       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000165       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fprintf.o)
+ .ARM.attributes
+                0x00000198       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getenv.o)
+ .ARM.attributes
+                0x000001cb       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getenv_r.o)
+ .ARM.attributes
+                0x000001fe       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getopt.o)
+ .ARM.attributes
+                0x00000231       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000264       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-locale.o)
+ .ARM.attributes
+                0x00000297       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x000002ca       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x000002fd       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memcmp.o)
+ .ARM.attributes
+                0x00000330       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000363       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000396       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x000003c9       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf.o)
+ .ARM.attributes
+                0x000003fc       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-printf.o)
+ .ARM.attributes
+                0x0000042f       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000462       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-setenv.o)
+ .ARM.attributes
+                0x00000495       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-setenv_r.o)
+ .ARM.attributes
+                0x000004c8       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-signal.o)
+ .ARM.attributes
+                0x000004fb       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-signalr.o)
+ .ARM.attributes
+                0x0000052e       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-snprintf.o)
+ .ARM.attributes
+                0x00000561       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strchr.o)
+ .ARM.attributes
+                0x00000594       0x21 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x000005b5       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strcpy.o)
+ .ARM.attributes
+                0x000005e8       0x17 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x000005ff       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncat.o)
+ .ARM.attributes
+                0x00000632       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncmp.o)
+ .ARM.attributes
+                0x00000665       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncpy.o)
+ .ARM.attributes
+                0x00000698       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtok.o)
+ .ARM.attributes
+                0x000006cb       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtok_r.o)
+ .ARM.attributes
+                0x000006fe       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtol.o)
+ .ARM.attributes
+                0x00000731       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-tolower.o)
+ .ARM.attributes
+                0x00000764       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wbuf.o)
+ .ARM.attributes
+                0x00000797       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wsetup.o)
+ .ARM.attributes
+                0x000007ca       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x000007fd       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-ctype_.o)
+ .ARM.attributes
+                0x00000830       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-envlock.o)
+ .ARM.attributes
+                0x00000863       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000896       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x000008c9       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x000008fc       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputc.o)
+ .ARM.attributes
+                0x0000092f       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputs.o)
+ .ARM.attributes
+                0x00000962       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputwc.o)
+ .ARM.attributes
+                0x00000995       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x000009c8       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fvwrite.o)
+ .ARM.attributes
+                0x000009fb       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x00000a2e       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-makebuf.o)
+ .ARM.attributes
+                0x00000a61       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memchr-stub.o)
+ .ARM.attributes
+                0x00000a94       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x00000ac7       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-svfprintf.o)
+ .ARM.attributes
+                0x00000afa       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf_i.o)
+ .ARM.attributes
+                0x00000b2d       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-putc.o)
+ .ARM.attributes
+                0x00000b60       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-reallocr.o)
+ .ARM.attributes
+                0x00000b93       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-reent.o)
+ .ARM.attributes
+                0x00000bc6       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x00000bf9       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wcrtomb.o)
+ .ARM.attributes
+                0x00000c2c       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wctomb_r.o)
+ .ARM.attributes
+                0x00000c5f       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-writer.o)
+ .ARM.attributes
+                0x00000c92       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-closer.o)
+ .ARM.attributes
+                0x00000cc5       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fclose.o)
+ .ARM.attributes
+                0x00000cf8       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fstatr.o)
+ .ARM.attributes
+                0x00000d2b       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-isattyr.o)
+ .ARM.attributes
+                0x00000d5e       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x00000d91       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-readr.o)
+ .ARM.attributes
+                0x00000dc4       0x33 ../newlib/build/lib/arm-frosted/lib/libgloss.a(chdir.o)
+ .ARM.attributes
+                0x00000df7       0x33 ../newlib/build/lib/arm-frosted/lib/libgloss.a(close.o)
+ .ARM.attributes
+                0x00000e2a       0x33 ../newlib/build/lib/arm-frosted/lib/libgloss.a(closedir.o)
+ .ARM.attributes
+                0x00000e5d       0x33 ../newlib/build/lib/arm-frosted/lib/libgloss.a(crt0.o)
+ .ARM.attributes
+                0x00000e90       0x33 ../newlib/build/lib/arm-frosted/lib/libgloss.a(dup2.o)
+ .ARM.attributes
+                0x00000ec3       0x33 ../newlib/build/lib/arm-frosted/lib/libgloss.a(dup.o)
+ .ARM.attributes
+                0x00000ef6       0x33 ../newlib/build/lib/arm-frosted/lib/libgloss.a(exec.o)
+ .ARM.attributes
+                0x00000f29       0x33 ../newlib/build/lib/arm-frosted/lib/libgloss.a(exit.o)
+ .ARM.attributes
+                0x00000f5c       0x33 ../newlib/build/lib/arm-frosted/lib/libgloss.a(getcwd.o)
+ .ARM.attributes
+                0x00000f8f       0x33 ../newlib/build/lib/arm-frosted/lib/libgloss.a(getpid.o)
+ .ARM.attributes
+                0x00000fc2       0x33 ../newlib/build/lib/arm-frosted/lib/libgloss.a(getppid.o)
+ .ARM.attributes
+                0x00000ff5       0x33 ../newlib/build/lib/arm-frosted/lib/libgloss.a(isatty.o)
+ .ARM.attributes
+                0x00001028       0x33 ../newlib/build/lib/arm-frosted/lib/libgloss.a(kill.o)
+ .ARM.attributes
+                0x0000105b       0x33 ../newlib/build/lib/arm-frosted/lib/libgloss.a(link.o)
+ .ARM.attributes
+                0x0000108e       0x33 ../newlib/build/lib/arm-frosted/lib/libgloss.a(mkdir.o)
+ .ARM.attributes
+                0x000010c1       0x33 ../newlib/build/lib/arm-frosted/lib/libgloss.a(open.o)
+ .ARM.attributes
+                0x000010f4       0x33 ../newlib/build/lib/arm-frosted/lib/libgloss.a(opendir.o)
+ .ARM.attributes
+                0x00001127       0x33 ../newlib/build/lib/arm-frosted/lib/libgloss.a(pipe.o)
+ .ARM.attributes
+                0x0000115a       0x33 ../newlib/build/lib/arm-frosted/lib/libgloss.a(read.o)
+ .ARM.attributes
+                0x0000118d       0x33 ../newlib/build/lib/arm-frosted/lib/libgloss.a(readdir.o)
+ .ARM.attributes
+                0x000011c0       0x33 ../newlib/build/lib/arm-frosted/lib/libgloss.a(sleep.o)
+ .ARM.attributes
+                0x000011f3       0x33 ../newlib/build/lib/arm-frosted/lib/libgloss.a(socket.o)
+ .ARM.attributes
+                0x00001226       0x33 ../newlib/build/lib/arm-frosted/lib/libgloss.a(stat.o)
+ .ARM.attributes
+                0x00001259       0x33 ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscalls.o)
+ .ARM.attributes
+                0x0000128c       0x33 ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscall_table.o)
+ .ARM.attributes
+                0x000012bf       0x33 ../newlib/build/lib/arm-frosted/lib/libgloss.a(tcgetattr.o)
+ .ARM.attributes
+                0x000012f2       0x33 ../newlib/build/lib/arm-frosted/lib/libgloss.a(unlink.o)
+ .ARM.attributes
+                0x00001325       0x33 ../newlib/build/lib/arm-frosted/lib/libgloss.a(vfork.o)
+ .ARM.attributes
+                0x00001358       0x33 ../newlib/build/lib/arm-frosted/lib/libgloss.a(wait.o)
+ .ARM.attributes
+                0x0000138b       0x33 ../newlib/build/lib/arm-frosted/lib/libgloss.a(waitpid.o)
+ .ARM.attributes
+                0x000013be       0x33 ../newlib/build/lib/arm-frosted/lib/libgloss.a(write.o)
+ .ARM.attributes
+                0x000013f1       0x33 ../newlib/build/lib/arm-frosted/lib/libgloss.a(fork.o)
+ .ARM.attributes
+                0x00001424       0x33 ../newlib/build/lib/arm-frosted/lib/libgloss.a(fstat.o)
+ .ARM.attributes
+                0x00001457       0x33 ../newlib/build/lib/arm-frosted/lib/libgloss.a(lseek.o)
+ .ARM.attributes
+                0x0000148a       0x33 ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscall.o)
+ .ARM.attributes
+                0x000014bd       0x16 ../newlib/build/lib/arm-frosted/lib/libgloss.a(svc.o)
+ .ARM.attributes
+                0x000014d3       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-calloc.o)
+ .ARM.attributes
+                0x00001506       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-callocr.o)
+ .ARM.attributes
+                0x00001539       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-realloc.o)
+ .ARM.attributes
+                0x0000156c       0x2d /opt/toolchains/gcc-arm/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libg_nano.a(lib_a-sysgettod.o)
+ .ARM.attributes
+                0x00001599       0x2d /opt/toolchains/gcc-arm/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libg_nano.a(lib_a-gettimeofdayr.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0xec0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x30 init_bflt.o
+ .debug_aranges
+                0x00000030       0x98 fresh.o
+ .debug_aranges
+                0x000000c8       0xd8 binutils.o
+ .debug_aranges
+                0x000001a0       0x38 stubs.o
+ .debug_aranges
+                0x000001d8       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-atoi.o)
+ .debug_aranges
+                0x000001f8       0x18 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-environ.o)
+ .debug_aranges
+                0x00000210       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-exit.o)
+ .debug_aranges
+                0x00000230       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fprintf.o)
+ .debug_aranges
+                0x00000250       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getenv.o)
+ .debug_aranges
+                0x00000270       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getenv_r.o)
+ .debug_aranges
+                0x00000290       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getopt.o)
+ .debug_aranges
+                0x000002b0       0x18 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-impure.o)
+ .debug_aranges
+                0x000002c8       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-locale.o)
+ .debug_aranges
+                0x000002e8       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-malloc.o)
+ .debug_aranges
+                0x00000308       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-mallocr.o)
+ .debug_aranges
+                0x00000328       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memcmp.o)
+ .debug_aranges
+                0x00000348       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memcpy-stub.o)
+ .debug_aranges
+                0x00000368       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memset.o)
+ .debug_aranges
+                0x00000388       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-mlock.o)
+ .debug_aranges
+                0x000003a8       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf.o)
+ .debug_aranges
+                0x000003c8       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-printf.o)
+ .debug_aranges
+                0x000003e8       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-sbrkr.o)
+ .debug_aranges
+                0x00000408       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-setenv.o)
+ .debug_aranges
+                0x00000428       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-setenv_r.o)
+ .debug_aranges
+                0x00000448       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-signal.o)
+ .debug_aranges
+                0x00000468       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-signalr.o)
+ .debug_aranges
+                0x00000488       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-snprintf.o)
+ .debug_aranges
+                0x000004a8       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strchr.o)
+ .debug_aranges
+                0x000004c8       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strcmp.o)
+ .debug_aranges
+                0x000004e8       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strcpy.o)
+ .debug_aranges
+                0x00000508       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strlen.o)
+ .debug_aranges
+                0x00000528       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncat.o)
+ .debug_aranges
+                0x00000548       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncmp.o)
+ .debug_aranges
+                0x00000568       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncpy.o)
+ .debug_aranges
+                0x00000588       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtok.o)
+ .debug_aranges
+                0x000005a8       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtok_r.o)
+ .debug_aranges
+                0x000005c8       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtol.o)
+ .debug_aranges
+                0x000005e8       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-tolower.o)
+ .debug_aranges
+                0x00000608       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wbuf.o)
+ .debug_aranges
+                0x00000628       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wsetup.o)
+ .debug_aranges
+                0x00000648       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-__call_atexit.o)
+ .debug_aranges
+                0x00000668       0x18 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-ctype_.o)
+ .debug_aranges
+                0x00000680       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-envlock.o)
+ .debug_aranges
+                0x000006a0       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-errno.o)
+ .debug_aranges
+                0x000006c0       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fflush.o)
+ .debug_aranges
+                0x000006e0       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-findfp.o)
+ .debug_aranges
+                0x00000700       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputc.o)
+ .debug_aranges
+                0x00000720       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputs.o)
+ .debug_aranges
+                0x00000740       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputwc.o)
+ .debug_aranges
+                0x00000760       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-freer.o)
+ .debug_aranges
+                0x00000780       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fvwrite.o)
+ .debug_aranges
+                0x000007a0       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fwalk.o)
+ .debug_aranges
+                0x000007c0       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-makebuf.o)
+ .debug_aranges
+                0x000007e0       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memchr-stub.o)
+ .debug_aranges
+                0x00000800       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memmove.o)
+ .debug_aranges
+                0x00000820       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-svfprintf.o)
+ .debug_aranges
+                0x00000840       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf_i.o)
+ .debug_aranges
+                0x00000860       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-putc.o)
+ .debug_aranges
+                0x00000880       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-reallocr.o)
+ .debug_aranges
+                0x000008a0       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-reent.o)
+ .debug_aranges
+                0x000008c0       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-stdio.o)
+ .debug_aranges
+                0x000008e0       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wcrtomb.o)
+ .debug_aranges
+                0x00000900       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wctomb_r.o)
+ .debug_aranges
+                0x00000920       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-writer.o)
+ .debug_aranges
+                0x00000940       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-closer.o)
+ .debug_aranges
+                0x00000960       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fclose.o)
+ .debug_aranges
+                0x00000980       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fstatr.o)
+ .debug_aranges
+                0x000009a0       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-isattyr.o)
+ .debug_aranges
+                0x000009c0       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-lseekr.o)
+ .debug_aranges
+                0x000009e0       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-readr.o)
+ .debug_aranges
+                0x00000a00       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(chdir.o)
+ .debug_aranges
+                0x00000a20       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(close.o)
+ .debug_aranges
+                0x00000a40       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(closedir.o)
+ .debug_aranges
+                0x00000a60       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(crt0.o)
+ .debug_aranges
+                0x00000a80       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(dup2.o)
+ .debug_aranges
+                0x00000aa0       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(dup.o)
+ .debug_aranges
+                0x00000ac0       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(exec.o)
+ .debug_aranges
+                0x00000ae0       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(exit.o)
+ .debug_aranges
+                0x00000b00       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(getcwd.o)
+ .debug_aranges
+                0x00000b20       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(getpid.o)
+ .debug_aranges
+                0x00000b40       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(getppid.o)
+ .debug_aranges
+                0x00000b60       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(isatty.o)
+ .debug_aranges
+                0x00000b80       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(kill.o)
+ .debug_aranges
+                0x00000ba0       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(link.o)
+ .debug_aranges
+                0x00000bc0       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(mkdir.o)
+ .debug_aranges
+                0x00000be0       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(open.o)
+ .debug_aranges
+                0x00000c00       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(opendir.o)
+ .debug_aranges
+                0x00000c20       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(pipe.o)
+ .debug_aranges
+                0x00000c40       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(read.o)
+ .debug_aranges
+                0x00000c60       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(readdir.o)
+ .debug_aranges
+                0x00000c80       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(sleep.o)
+ .debug_aranges
+                0x00000ca0       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(socket.o)
+ .debug_aranges
+                0x00000cc0       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(stat.o)
+ .debug_aranges
+                0x00000ce0       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscalls.o)
+ .debug_aranges
+                0x00000d00       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscall_table.o)
+ .debug_aranges
+                0x00000d20       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(tcgetattr.o)
+ .debug_aranges
+                0x00000d40       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(unlink.o)
+ .debug_aranges
+                0x00000d60       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(vfork.o)
+ .debug_aranges
+                0x00000d80       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(wait.o)
+ .debug_aranges
+                0x00000da0       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(waitpid.o)
+ .debug_aranges
+                0x00000dc0       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(write.o)
+ .debug_aranges
+                0x00000de0       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(fork.o)
+ .debug_aranges
+                0x00000e00       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(fstat.o)
+ .debug_aranges
+                0x00000e20       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(lseek.o)
+ .debug_aranges
+                0x00000e40       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscall.o)
+ .debug_aranges
+                0x00000e60       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-calloc.o)
+ .debug_aranges
+                0x00000e80       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-callocr.o)
+ .debug_aranges
+                0x00000ea0       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-realloc.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000    0x28bec
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x251 init_bflt.o
+ .debug_info    0x00000251      0xb30 fresh.o
+ .debug_info    0x00000d81     0x14bc binutils.o
+ .debug_info    0x0000223d      0x12c stubs.o
+ .debug_info    0x00002369      0x8f3 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-atoi.o)
+ .debug_info    0x00002c5c       0x6a ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-environ.o)
+ .debug_info    0x00002cc6      0x8b9 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-exit.o)
+ .debug_info    0x0000357f      0x99f ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fprintf.o)
+ .debug_info    0x00003f1e      0x90a ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getenv.o)
+ .debug_info    0x00004828      0x9a1 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getenv_r.o)
+ .debug_info    0x000051c9     0x1316 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getopt.o)
+ .debug_info    0x000064df      0x894 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-impure.o)
+ .debug_info    0x00006d73      0xbf0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-locale.o)
+ .debug_info    0x00007963      0x8e1 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-malloc.o)
+ .debug_info    0x00008244      0xca3 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-mallocr.o)
+ .debug_info    0x00008ee7       0xef ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memcmp.o)
+ .debug_info    0x00008fd6      0x104 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memcpy-stub.o)
+ .debug_info    0x000090da       0xd3 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memset.o)
+ .debug_info    0x000091ad      0x8b4 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-mlock.o)
+ .debug_info    0x00009a61      0xe3e ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf.o)
+ .debug_info    0x0000a89f      0x973 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-printf.o)
+ .debug_info    0x0000b212      0x8df ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-sbrkr.o)
+ .debug_info    0x0000baf1      0x908 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-setenv.o)
+ .debug_info    0x0000c3f9      0xab2 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-setenv_r.o)
+ .debug_info    0x0000ceab      0xb22 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-signal.o)
+ .debug_info    0x0000d9cd      0x929 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-signalr.o)
+ .debug_info    0x0000e2f6      0x9f3 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-snprintf.o)
+ .debug_info    0x0000ece9       0xe3 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strchr.o)
+ .debug_info    0x0000edcc       0xa7 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strcmp.o)
+ .debug_info    0x0000ee73       0xbd ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strcpy.o)
+ .debug_info    0x0000ef30       0xa8 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strlen.o)
+ .debug_info    0x0000efd8       0xe0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncat.o)
+ .debug_info    0x0000f0b8       0xcf ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncmp.o)
+ .debug_info    0x0000f187       0xf5 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncpy.o)
+ .debug_info    0x0000f27c      0x8cb ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtok.o)
+ .debug_info    0x0000fb47      0x183 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtok_r.o)
+ .debug_info    0x0000fcca      0x9a5 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtol.o)
+ .debug_info    0x0001066f       0x71 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-tolower.o)
+ .debug_info    0x000106e0      0x981 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wbuf.o)
+ .debug_info    0x00011061      0x8f1 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wsetup.o)
+ .debug_info    0x00011952      0x948 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-__call_atexit.o)
+ .debug_info    0x0001229a       0x6f ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-ctype_.o)
+ .debug_info    0x00012309      0x8b4 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-envlock.o)
+ .debug_info    0x00012bbd      0x889 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-errno.o)
+ .debug_info    0x00013446      0xa43 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fflush.o)
+ .debug_info    0x00013e89      0xc5a ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-findfp.o)
+ .debug_info    0x00014ae3      0x95f ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputc.o)
+ .debug_info    0x00015442      0x9f6 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputs.o)
+ .debug_info    0x00015e38      0xa38 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputwc.o)
+ .debug_info    0x00016870      0xba6 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-freer.o)
+ .debug_info    0x00017416      0xb64 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fvwrite.o)
+ .debug_info    0x00017f7a      0x99a ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fwalk.o)
+ .debug_info    0x00018914      0xa7f ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-makebuf.o)
+ .debug_info    0x00019393       0xf8 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memchr-stub.o)
+ .debug_info    0x0001948b      0x102 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memmove.o)
+ .debug_info    0x0001958d      0xdab ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-svfprintf.o)
+ .debug_info    0x0001a338      0xc88 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf_i.o)
+ .debug_info    0x0001afc0      0x94f ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-putc.o)
+ .debug_info    0x0001b90f      0xc22 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-reallocr.o)
+ .debug_info    0x0001c531      0x9c6 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-reent.o)
+ .debug_info    0x0001cef7      0xae9 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-stdio.o)
+ .debug_info    0x0001d9e0      0x9a9 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wcrtomb.o)
+ .debug_info    0x0001e389      0x9a1 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wctomb_r.o)
+ .debug_info    0x0001ed2a      0x918 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-writer.o)
+ .debug_info    0x0001f642      0x8cf ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-closer.o)
+ .debug_info    0x0001ff11      0x9c0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fclose.o)
+ .debug_info    0x000208d1      0xa4d ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fstatr.o)
+ .debug_info    0x0002131e      0x8cf ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-isattyr.o)
+ .debug_info    0x00021bed      0x8fb ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-lseekr.o)
+ .debug_info    0x000224e8      0x911 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-readr.o)
+ .debug_info    0x00022df9       0xb6 ../newlib/build/lib/arm-frosted/lib/libgloss.a(chdir.o)
+ .debug_info    0x00022eaf       0xab ../newlib/build/lib/arm-frosted/lib/libgloss.a(close.o)
+ .debug_info    0x00022f5a       0xbb ../newlib/build/lib/arm-frosted/lib/libgloss.a(closedir.o)
+ .debug_info    0x00023015       0x9a ../newlib/build/lib/arm-frosted/lib/libgloss.a(crt0.o)
+ .debug_info    0x000230af       0xc1 ../newlib/build/lib/arm-frosted/lib/libgloss.a(dup2.o)
+ .debug_info    0x00023170       0xab ../newlib/build/lib/arm-frosted/lib/libgloss.a(dup.o)
+ .debug_info    0x0002321b      0x22a ../newlib/build/lib/arm-frosted/lib/libgloss.a(exec.o)
+ .debug_info    0x00023445       0xac ../newlib/build/lib/arm-frosted/lib/libgloss.a(exit.o)
+ .debug_info    0x000234f1       0xcc ../newlib/build/lib/arm-frosted/lib/libgloss.a(getcwd.o)
+ .debug_info    0x000235bd       0x8f ../newlib/build/lib/arm-frosted/lib/libgloss.a(getpid.o)
+ .debug_info    0x0002364c       0x8f ../newlib/build/lib/arm-frosted/lib/libgloss.a(getppid.o)
+ .debug_info    0x000236db       0xab ../newlib/build/lib/arm-frosted/lib/libgloss.a(isatty.o)
+ .debug_info    0x00023786       0xc2 ../newlib/build/lib/arm-frosted/lib/libgloss.a(kill.o)
+ .debug_info    0x00023848       0xcc ../newlib/build/lib/arm-frosted/lib/libgloss.a(link.o)
+ .debug_info    0x00023914       0xdc ../newlib/build/lib/arm-frosted/lib/libgloss.a(mkdir.o)
+ .debug_info    0x000239f0       0xe2 ../newlib/build/lib/arm-frosted/lib/libgloss.a(open.o)
+ .debug_info    0x00023ad2       0xc8 ../newlib/build/lib/arm-frosted/lib/libgloss.a(opendir.o)
+ .debug_info    0x00023b9a      0x101 ../newlib/build/lib/arm-frosted/lib/libgloss.a(pipe.o)
+ .debug_info    0x00023c9b       0xde ../newlib/build/lib/arm-frosted/lib/libgloss.a(read.o)
+ .debug_info    0x00023d79      0x121 ../newlib/build/lib/arm-frosted/lib/libgloss.a(readdir.o)
+ .debug_info    0x00023e9a       0xaa ../newlib/build/lib/arm-frosted/lib/libgloss.a(sleep.o)
+ .debug_info    0x00023f44       0xd8 ../newlib/build/lib/arm-frosted/lib/libgloss.a(socket.o)
+ .debug_info    0x0002401c      0x131 ../newlib/build/lib/arm-frosted/lib/libgloss.a(stat.o)
+ .debug_info    0x0002414d      0x712 ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscalls.o)
+ .debug_info    0x0002485f     0x1f34 ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscall_table.o)
+ .debug_info    0x00026793      0x169 ../newlib/build/lib/arm-frosted/lib/libgloss.a(tcgetattr.o)
+ .debug_info    0x000268fc       0xbb ../newlib/build/lib/arm-frosted/lib/libgloss.a(unlink.o)
+ .debug_info    0x000269b7       0xc8 ../newlib/build/lib/arm-frosted/lib/libgloss.a(vfork.o)
+ .debug_info    0x00026a7f       0xdd ../newlib/build/lib/arm-frosted/lib/libgloss.a(wait.o)
+ .debug_info    0x00026b5c       0xfe ../newlib/build/lib/arm-frosted/lib/libgloss.a(waitpid.o)
+ .debug_info    0x00026c5a       0xe3 ../newlib/build/lib/arm-frosted/lib/libgloss.a(write.o)
+ .debug_info    0x00026d3d       0x9a ../newlib/build/lib/arm-frosted/lib/libgloss.a(fork.o)
+ .debug_info    0x00026dd7       0xc5 ../newlib/build/lib/arm-frosted/lib/libgloss.a(fstat.o)
+ .debug_info    0x00026e9c       0xd7 ../newlib/build/lib/arm-frosted/lib/libgloss.a(lseek.o)
+ .debug_info    0x00026f73      0x149 ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscall.o)
+ .debug_info    0x000270bc      0x8c3 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-calloc.o)
+ .debug_info    0x0002797f      0x9a9 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-callocr.o)
+ .debug_info    0x00028328      0x8c4 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-realloc.o)
+
+.debug_abbrev   0x00000000     0x8d99
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0xd3 init_bflt.o
+ .debug_abbrev  0x000000d3      0x2ac fresh.o
+ .debug_abbrev  0x0000037f      0x2a9 binutils.o
+ .debug_abbrev  0x00000628       0xa7 stubs.o
+ .debug_abbrev  0x000006cf      0x1ca ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-atoi.o)
+ .debug_abbrev  0x00000899       0x56 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-environ.o)
+ .debug_abbrev  0x000008ef      0x1be ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-exit.o)
+ .debug_abbrev  0x00000aad      0x204 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fprintf.o)
+ .debug_abbrev  0x00000cb1      0x1c4 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getenv.o)
+ .debug_abbrev  0x00000e75      0x1eb ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getenv_r.o)
+ .debug_abbrev  0x00001060      0x329 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getopt.o)
+ .debug_abbrev  0x00001389      0x180 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-impure.o)
+ .debug_abbrev  0x00001509      0x2b0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-locale.o)
+ .debug_abbrev  0x000017b9      0x1cf ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-malloc.o)
+ .debug_abbrev  0x00001988      0x281 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-mallocr.o)
+ .debug_abbrev  0x00001c09       0x8e ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memcmp.o)
+ .debug_abbrev  0x00001c97       0xa4 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memcpy-stub.o)
+ .debug_abbrev  0x00001d3b       0x8e ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memset.o)
+ .debug_abbrev  0x00001dc9      0x19a ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-mlock.o)
+ .debug_abbrev  0x00001f63      0x31c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf.o)
+ .debug_abbrev  0x0000227f      0x213 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-printf.o)
+ .debug_abbrev  0x00002492      0x1e8 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-sbrkr.o)
+ .debug_abbrev  0x0000267a      0x1c1 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-setenv.o)
+ .debug_abbrev  0x0000283b      0x213 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-setenv_r.o)
+ .debug_abbrev  0x00002a4e      0x296 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-signal.o)
+ .debug_abbrev  0x00002ce4      0x209 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-signalr.o)
+ .debug_abbrev  0x00002eed      0x206 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-snprintf.o)
+ .debug_abbrev  0x000030f3       0x83 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strchr.o)
+ .debug_abbrev  0x00003176       0x14 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strcmp.o)
+ .debug_abbrev  0x0000318a       0x72 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strcpy.o)
+ .debug_abbrev  0x000031fc       0x14 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strlen.o)
+ .debug_abbrev  0x00003210       0x7f ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncat.o)
+ .debug_abbrev  0x0000328f       0x70 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncmp.o)
+ .debug_abbrev  0x000032ff       0x8e ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncpy.o)
+ .debug_abbrev  0x0000338d      0x1d4 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtok.o)
+ .debug_abbrev  0x00003561       0xeb ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtok_r.o)
+ .debug_abbrev  0x0000364c      0x205 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtol.o)
+ .debug_abbrev  0x00003851       0x76 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-tolower.o)
+ .debug_abbrev  0x000038c7      0x205 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wbuf.o)
+ .debug_abbrev  0x00003acc      0x1d8 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wsetup.o)
+ .debug_abbrev  0x00003ca4      0x203 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-__call_atexit.o)
+ .debug_abbrev  0x00003ea7       0x4e ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-ctype_.o)
+ .debug_abbrev  0x00003ef5      0x19c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-envlock.o)
+ .debug_abbrev  0x00004091      0x18f ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-errno.o)
+ .debug_abbrev  0x00004220      0x266 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fflush.o)
+ .debug_abbrev  0x00004486      0x342 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-findfp.o)
+ .debug_abbrev  0x000047c8      0x209 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputc.o)
+ .debug_abbrev  0x000049d1      0x219 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputs.o)
+ .debug_abbrev  0x00004bea      0x217 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputwc.o)
+ .debug_abbrev  0x00004e01      0x23c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-freer.o)
+ .debug_abbrev  0x0000503d      0x1f8 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fvwrite.o)
+ .debug_abbrev  0x00005235      0x1d1 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fwalk.o)
+ .debug_abbrev  0x00005406      0x1da ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-makebuf.o)
+ .debug_abbrev  0x000055e0       0xab ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memchr-stub.o)
+ .debug_abbrev  0x0000568b       0x9c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memmove.o)
+ .debug_abbrev  0x00005727      0x293 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-svfprintf.o)
+ .debug_abbrev  0x000059ba      0x234 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf_i.o)
+ .debug_abbrev  0x00005bee      0x1fa ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-putc.o)
+ .debug_abbrev  0x00005de8      0x231 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-reallocr.o)
+ .debug_abbrev  0x00006019      0x22e ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-reent.o)
+ .debug_abbrev  0x00006247      0x223 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-stdio.o)
+ .debug_abbrev  0x0000646a      0x203 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wcrtomb.o)
+ .debug_abbrev  0x0000666d      0x210 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wctomb_r.o)
+ .debug_abbrev  0x0000687d      0x1e1 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-writer.o)
+ .debug_abbrev  0x00006a5e      0x1dc ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-closer.o)
+ .debug_abbrev  0x00006c3a      0x24d ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fclose.o)
+ .debug_abbrev  0x00006e87      0x1eb ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fstatr.o)
+ .debug_abbrev  0x00007072      0x1dc ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-isattyr.o)
+ .debug_abbrev  0x0000724e      0x1eb ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-lseekr.o)
+ .debug_abbrev  0x00007439      0x1dc ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-readr.o)
+ .debug_abbrev  0x00007615       0x73 ../newlib/build/lib/arm-frosted/lib/libgloss.a(chdir.o)
+ .debug_abbrev  0x00007688       0x68 ../newlib/build/lib/arm-frosted/lib/libgloss.a(close.o)
+ .debug_abbrev  0x000076f0       0x7e ../newlib/build/lib/arm-frosted/lib/libgloss.a(closedir.o)
+ .debug_abbrev  0x0000776e       0x4f ../newlib/build/lib/arm-frosted/lib/libgloss.a(crt0.o)
+ .debug_abbrev  0x000077bd       0x77 ../newlib/build/lib/arm-frosted/lib/libgloss.a(dup2.o)
+ .debug_abbrev  0x00007834       0x68 ../newlib/build/lib/arm-frosted/lib/libgloss.a(dup.o)
+ .debug_abbrev  0x0000789c       0x99 ../newlib/build/lib/arm-frosted/lib/libgloss.a(exec.o)
+ .debug_abbrev  0x00007935       0x68 ../newlib/build/lib/arm-frosted/lib/libgloss.a(exit.o)
+ .debug_abbrev  0x0000799d       0x82 ../newlib/build/lib/arm-frosted/lib/libgloss.a(getcwd.o)
+ .debug_abbrev  0x00007a1f       0x44 ../newlib/build/lib/arm-frosted/lib/libgloss.a(getpid.o)
+ .debug_abbrev  0x00007a63       0x44 ../newlib/build/lib/arm-frosted/lib/libgloss.a(getppid.o)
+ .debug_abbrev  0x00007aa7       0x68 ../newlib/build/lib/arm-frosted/lib/libgloss.a(isatty.o)
+ .debug_abbrev  0x00007b0f       0x68 ../newlib/build/lib/arm-frosted/lib/libgloss.a(kill.o)
+ .debug_abbrev  0x00007b77       0x73 ../newlib/build/lib/arm-frosted/lib/libgloss.a(link.o)
+ .debug_abbrev  0x00007bea       0x87 ../newlib/build/lib/arm-frosted/lib/libgloss.a(mkdir.o)
+ .debug_abbrev  0x00007c71       0x73 ../newlib/build/lib/arm-frosted/lib/libgloss.a(open.o)
+ .debug_abbrev  0x00007ce4       0x85 ../newlib/build/lib/arm-frosted/lib/libgloss.a(opendir.o)
+ .debug_abbrev  0x00007d69       0x9c ../newlib/build/lib/arm-frosted/lib/libgloss.a(pipe.o)
+ .debug_abbrev  0x00007e05       0x80 ../newlib/build/lib/arm-frosted/lib/libgloss.a(read.o)
+ .debug_abbrev  0x00007e85       0xbb ../newlib/build/lib/arm-frosted/lib/libgloss.a(readdir.o)
+ .debug_abbrev  0x00007f40       0x68 ../newlib/build/lib/arm-frosted/lib/libgloss.a(sleep.o)
+ .debug_abbrev  0x00007fa8       0x68 ../newlib/build/lib/arm-frosted/lib/libgloss.a(socket.o)
+ .debug_abbrev  0x00008010       0x92 ../newlib/build/lib/arm-frosted/lib/libgloss.a(stat.o)
+ .debug_abbrev  0x000080a2      0x126 ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscalls.o)
+ .debug_abbrev  0x000081c8       0xd7 ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscall_table.o)
+ .debug_abbrev  0x0000829f       0xbf ../newlib/build/lib/arm-frosted/lib/libgloss.a(tcgetattr.o)
+ .debug_abbrev  0x0000835e       0x7a ../newlib/build/lib/arm-frosted/lib/libgloss.a(unlink.o)
+ .debug_abbrev  0x000083d8       0x89 ../newlib/build/lib/arm-frosted/lib/libgloss.a(vfork.o)
+ .debug_abbrev  0x00008461       0x9c ../newlib/build/lib/arm-frosted/lib/libgloss.a(wait.o)
+ .debug_abbrev  0x000084fd       0xa7 ../newlib/build/lib/arm-frosted/lib/libgloss.a(waitpid.o)
+ .debug_abbrev  0x000085a4       0x87 ../newlib/build/lib/arm-frosted/lib/libgloss.a(write.o)
+ .debug_abbrev  0x0000862b       0x55 ../newlib/build/lib/arm-frosted/lib/libgloss.a(fork.o)
+ .debug_abbrev  0x00008680       0x87 ../newlib/build/lib/arm-frosted/lib/libgloss.a(fstat.o)
+ .debug_abbrev  0x00008707       0x77 ../newlib/build/lib/arm-frosted/lib/libgloss.a(lseek.o)
+ .debug_abbrev  0x0000877e       0xa8 ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscall.o)
+ .debug_abbrev  0x00008826      0x1c4 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-calloc.o)
+ .debug_abbrev  0x000089ea      0x1eb ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-callocr.o)
+ .debug_abbrev  0x00008bd5      0x1c4 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-realloc.o)
+
+.debug_line     0x00000000     0x77d3
+ *(.debug_line)
+ .debug_line    0x00000000      0x131 init_bflt.o
+ .debug_line    0x00000131      0x44b fresh.o
+ .debug_line    0x0000057c      0x62d binutils.o
+ .debug_line    0x00000ba9       0xa3 stubs.o
+ .debug_line    0x00000c4c      0x131 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-atoi.o)
+ .debug_line    0x00000d7d       0x4c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-environ.o)
+ .debug_line    0x00000dc9      0x133 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-exit.o)
+ .debug_line    0x00000efc      0x153 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fprintf.o)
+ .debug_line    0x0000104f      0x138 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getenv.o)
+ .debug_line    0x00001187      0x158 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getenv_r.o)
+ .debug_line    0x000012df      0x2bc ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getopt.o)
+ .debug_line    0x0000159b       0xe4 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-impure.o)
+ .debug_line    0x0000167f      0x172 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-locale.o)
+ .debug_line    0x000017f1      0x136 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-malloc.o)
+ .debug_line    0x00001927      0x295 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-mallocr.o)
+ .debug_line    0x00001bbc       0xe3 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memcmp.o)
+ .debug_line    0x00001c9f       0xf5 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memcpy-stub.o)
+ .debug_line    0x00001d94       0xe1 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memset.o)
+ .debug_line    0x00001e75       0xf6 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-mlock.o)
+ .debug_line    0x00001f6b      0x26c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf.o)
+ .debug_line    0x000021d7      0x156 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-printf.o)
+ .debug_line    0x0000232d      0x137 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-sbrkr.o)
+ .debug_line    0x00002464      0x137 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-setenv.o)
+ .debug_line    0x0000259b      0x1a3 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-setenv_r.o)
+ .debug_line    0x0000273e      0x1a1 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-signal.o)
+ .debug_line    0x000028df      0x13e ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-signalr.o)
+ .debug_line    0x00002a1d      0x178 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-snprintf.o)
+ .debug_line    0x00002b95       0xa0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strchr.o)
+ .debug_line    0x00002c35       0x72 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strcmp.o)
+ .debug_line    0x00002ca7       0x9c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strcpy.o)
+ .debug_line    0x00002d43       0x72 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strlen.o)
+ .debug_line    0x00002db5       0xeb ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncat.o)
+ .debug_line    0x00002ea0       0xec ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncmp.o)
+ .debug_line    0x00002f8c       0xe8 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncpy.o)
+ .debug_line    0x00003074      0x133 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtok.o)
+ .debug_line    0x000031a7       0xc1 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtok_r.o)
+ .debug_line    0x00003268      0x1a6 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtol.o)
+ .debug_line    0x0000340e       0x96 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-tolower.o)
+ .debug_line    0x000034a4      0x170 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wbuf.o)
+ .debug_line    0x00003614      0x165 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wsetup.o)
+ .debug_line    0x00003779      0x14e ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-__call_atexit.o)
+ .debug_line    0x000038c7       0x55 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-ctype_.o)
+ .debug_line    0x0000391c      0x132 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-envlock.o)
+ .debug_line    0x00003a4e       0xff ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-errno.o)
+ .debug_line    0x00003b4d      0x1e5 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fflush.o)
+ .debug_line    0x00003d32      0x1cf ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-findfp.o)
+ .debug_line    0x00003f01      0x141 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputc.o)
+ .debug_line    0x00004042      0x164 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputs.o)
+ .debug_line    0x000041a6      0x18c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputwc.o)
+ .debug_line    0x00004332      0x1b1 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-freer.o)
+ .debug_line    0x000044e3      0x237 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fvwrite.o)
+ .debug_line    0x0000471a      0x17f ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fwalk.o)
+ .debug_line    0x00004899      0x18c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-makebuf.o)
+ .debug_line    0x00004a25       0xf8 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memchr-stub.o)
+ .debug_line    0x00004b1d       0xee ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memmove.o)
+ .debug_line    0x00004c0b      0x292 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-svfprintf.o)
+ .debug_line    0x00004e9d      0x2ae ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf_i.o)
+ .debug_line    0x0000514b      0x15f ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-putc.o)
+ .debug_line    0x000052aa      0x1f9 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-reallocr.o)
+ .debug_line    0x000054a3      0x126 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-reent.o)
+ .debug_line    0x000055c9      0x16d ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-stdio.o)
+ .debug_line    0x00005736      0x14f ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wcrtomb.o)
+ .debug_line    0x00005885      0x152 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wctomb_r.o)
+ .debug_line    0x000059d7      0x137 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-writer.o)
+ .debug_line    0x00005b0e      0x138 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-closer.o)
+ .debug_line    0x00005c46      0x155 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fclose.o)
+ .debug_line    0x00005d9b      0x14d ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fstatr.o)
+ .debug_line    0x00005ee8      0x139 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-isattyr.o)
+ .debug_line    0x00006021      0x137 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-lseekr.o)
+ .debug_line    0x00006158      0x136 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-readr.o)
+ .debug_line    0x0000628e       0x5a ../newlib/build/lib/arm-frosted/lib/libgloss.a(chdir.o)
+ .debug_line    0x000062e8       0x5a ../newlib/build/lib/arm-frosted/lib/libgloss.a(close.o)
+ .debug_line    0x00006342       0x97 ../newlib/build/lib/arm-frosted/lib/libgloss.a(closedir.o)
+ .debug_line    0x000063d9       0x57 ../newlib/build/lib/arm-frosted/lib/libgloss.a(crt0.o)
+ .debug_line    0x00006430       0x59 ../newlib/build/lib/arm-frosted/lib/libgloss.a(dup2.o)
+ .debug_line    0x00006489       0x58 ../newlib/build/lib/arm-frosted/lib/libgloss.a(dup.o)
+ .debug_line    0x000064e1       0x65 ../newlib/build/lib/arm-frosted/lib/libgloss.a(exec.o)
+ .debug_line    0x00006546       0x59 ../newlib/build/lib/arm-frosted/lib/libgloss.a(exit.o)
+ .debug_line    0x0000659f       0x5b ../newlib/build/lib/arm-frosted/lib/libgloss.a(getcwd.o)
+ .debug_line    0x000065fa       0x5b ../newlib/build/lib/arm-frosted/lib/libgloss.a(getpid.o)
+ .debug_line    0x00006655       0x5c ../newlib/build/lib/arm-frosted/lib/libgloss.a(getppid.o)
+ .debug_line    0x000066b1       0x5b ../newlib/build/lib/arm-frosted/lib/libgloss.a(isatty.o)
+ .debug_line    0x0000670c       0x59 ../newlib/build/lib/arm-frosted/lib/libgloss.a(kill.o)
+ .debug_line    0x00006765       0x59 ../newlib/build/lib/arm-frosted/lib/libgloss.a(link.o)
+ .debug_line    0x000067be       0x96 ../newlib/build/lib/arm-frosted/lib/libgloss.a(mkdir.o)
+ .debug_line    0x00006854       0x59 ../newlib/build/lib/arm-frosted/lib/libgloss.a(open.o)
+ .debug_line    0x000068ad       0x96 ../newlib/build/lib/arm-frosted/lib/libgloss.a(opendir.o)
+ .debug_line    0x00006943       0x5c ../newlib/build/lib/arm-frosted/lib/libgloss.a(pipe.o)
+ .debug_line    0x0000699f       0x59 ../newlib/build/lib/arm-frosted/lib/libgloss.a(read.o)
+ .debug_line    0x000069f8      0x11d ../newlib/build/lib/arm-frosted/lib/libgloss.a(readdir.o)
+ .debug_line    0x00006b15       0x5a ../newlib/build/lib/arm-frosted/lib/libgloss.a(sleep.o)
+ .debug_line    0x00006b6f       0x5b ../newlib/build/lib/arm-frosted/lib/libgloss.a(socket.o)
+ .debug_line    0x00006bca       0x5c ../newlib/build/lib/arm-frosted/lib/libgloss.a(stat.o)
+ .debug_line    0x00006c26      0x12a ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscalls.o)
+ .debug_line    0x00006d50      0x227 ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscall_table.o)
+ .debug_line    0x00006f77       0x98 ../newlib/build/lib/arm-frosted/lib/libgloss.a(tcgetattr.o)
+ .debug_line    0x0000700f       0x5b ../newlib/build/lib/arm-frosted/lib/libgloss.a(unlink.o)
+ .debug_line    0x0000706a       0x97 ../newlib/build/lib/arm-frosted/lib/libgloss.a(vfork.o)
+ .debug_line    0x00007101       0x5b ../newlib/build/lib/arm-frosted/lib/libgloss.a(wait.o)
+ .debug_line    0x0000715c       0xa2 ../newlib/build/lib/arm-frosted/lib/libgloss.a(waitpid.o)
+ .debug_line    0x000071fe       0x5a ../newlib/build/lib/arm-frosted/lib/libgloss.a(write.o)
+ .debug_line    0x00007258       0x5b ../newlib/build/lib/arm-frosted/lib/libgloss.a(fork.o)
+ .debug_line    0x000072b3       0x5c ../newlib/build/lib/arm-frosted/lib/libgloss.a(fstat.o)
+ .debug_line    0x0000730f       0x5a ../newlib/build/lib/arm-frosted/lib/libgloss.a(lseek.o)
+ .debug_line    0x00007369       0xec ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscall.o)
+ .debug_line    0x00007455      0x130 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-calloc.o)
+ .debug_line    0x00007585      0x11d ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-callocr.o)
+ .debug_line    0x000076a2      0x131 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-realloc.o)
+
+.debug_frame    0x00000000     0x29d0
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x70 init_bflt.o
+ .debug_frame   0x00000070      0x25c fresh.o
+ .debug_frame   0x000002cc      0x390 binutils.o
+ .debug_frame   0x0000065c       0xa0 stubs.o
+ .debug_frame   0x000006fc       0x40 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-atoi.o)
+ .debug_frame   0x0000073c       0x28 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-exit.o)
+ .debug_frame   0x00000764       0x6c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fprintf.o)
+ .debug_frame   0x000007d0       0x40 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getenv.o)
+ .debug_frame   0x00000810       0x50 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getenv_r.o)
+ .debug_frame   0x00000860      0x150 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getopt.o)
+ .debug_frame   0x000009b0       0xc0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-locale.o)
+ .debug_frame   0x00000a70       0x40 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-malloc.o)
+ .debug_frame   0x00000ab0       0x38 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-mallocr.o)
+ .debug_frame   0x00000ae8       0x28 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memcmp.o)
+ .debug_frame   0x00000b10       0x28 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00000b38       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memset.o)
+ .debug_frame   0x00000b58       0x30 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-mlock.o)
+ .debug_frame   0x00000b88       0xb4 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf.o)
+ .debug_frame   0x00000c3c       0x74 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-printf.o)
+ .debug_frame   0x00000cb0       0x2c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000cdc       0x44 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-setenv.o)
+ .debug_frame   0x00000d20       0x58 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-setenv_r.o)
+ .debug_frame   0x00000d78       0xe0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-signal.o)
+ .debug_frame   0x00000e58       0x44 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-signalr.o)
+ .debug_frame   0x00000e9c       0x7c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-snprintf.o)
+ .debug_frame   0x00000f18       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strchr.o)
+ .debug_frame   0x00000f38       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strcmp.o)
+ .debug_frame   0x00000f58       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strcpy.o)
+ .debug_frame   0x00000f78       0x2c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncat.o)
+ .debug_frame   0x00000fa4       0x2c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncmp.o)
+ .debug_frame   0x00000fd0       0x28 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncpy.o)
+ .debug_frame   0x00000ff8       0x28 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtok.o)
+ .debug_frame   0x00001020       0x48 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtok_r.o)
+ .debug_frame   0x00001068       0x50 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtol.o)
+ .debug_frame   0x000010b8       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-tolower.o)
+ .debug_frame   0x000010d8       0x44 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wbuf.o)
+ .debug_frame   0x0000111c       0x2c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wsetup.o)
+ .debug_frame   0x00001148       0x34 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000117c       0x30 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-envlock.o)
+ .debug_frame   0x000011ac       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-errno.o)
+ .debug_frame   0x000011cc       0x64 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fflush.o)
+ .debug_frame   0x00001230      0x140 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-findfp.o)
+ .debug_frame   0x00001370       0x44 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputc.o)
+ .debug_frame   0x000013b4       0x48 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputs.o)
+ .debug_frame   0x000013fc       0x68 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputwc.o)
+ .debug_frame   0x00001464       0x54 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-freer.o)
+ .debug_frame   0x000014b8       0x38 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fvwrite.o)
+ .debug_frame   0x000014f0       0x54 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fwalk.o)
+ .debug_frame   0x00001544       0x34 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-makebuf.o)
+ .debug_frame   0x00001578       0x28 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memchr-stub.o)
+ .debug_frame   0x000015a0       0x28 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memmove.o)
+ .debug_frame   0x000015c8       0x8c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-svfprintf.o)
+ .debug_frame   0x00001654       0x60 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf_i.o)
+ .debug_frame   0x000016b4       0x44 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-putc.o)
+ .debug_frame   0x000016f8       0x38 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-reallocr.o)
+ .debug_frame   0x00001730       0x48 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-reent.o)
+ .debug_frame   0x00001778       0x90 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-stdio.o)
+ .debug_frame   0x00001808       0x54 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wcrtomb.o)
+ .debug_frame   0x0000185c       0x44 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wctomb_r.o)
+ .debug_frame   0x000018a0       0x2c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-writer.o)
+ .debug_frame   0x000018cc       0x2c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-closer.o)
+ .debug_frame   0x000018f8       0x44 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fclose.o)
+ .debug_frame   0x0000193c       0x2c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fstatr.o)
+ .debug_frame   0x00001968       0x2c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-isattyr.o)
+ .debug_frame   0x00001994       0x2c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-lseekr.o)
+ .debug_frame   0x000019c0       0x2c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-readr.o)
+ .debug_frame   0x000019ec       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(chdir.o)
+ .debug_frame   0x00001a14       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(close.o)
+ .debug_frame   0x00001a3c       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(closedir.o)
+ .debug_frame   0x00001a64       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(crt0.o)
+ .debug_frame   0x00001a8c       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(dup2.o)
+ .debug_frame   0x00001ab4       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(dup.o)
+ .debug_frame   0x00001adc       0x88 ../newlib/build/lib/arm-frosted/lib/libgloss.a(exec.o)
+ .debug_frame   0x00001b64       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(exit.o)
+ .debug_frame   0x00001b8c       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(getcwd.o)
+ .debug_frame   0x00001bb4       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(getpid.o)
+ .debug_frame   0x00001bdc       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(getppid.o)
+ .debug_frame   0x00001c04       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(isatty.o)
+ .debug_frame   0x00001c2c       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(kill.o)
+ .debug_frame   0x00001c54       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(link.o)
+ .debug_frame   0x00001c7c       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(mkdir.o)
+ .debug_frame   0x00001ca4       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(open.o)
+ .debug_frame   0x00001ccc       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(opendir.o)
+ .debug_frame   0x00001cf4       0x40 ../newlib/build/lib/arm-frosted/lib/libgloss.a(pipe.o)
+ .debug_frame   0x00001d34       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(read.o)
+ .debug_frame   0x00001d5c       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(readdir.o)
+ .debug_frame   0x00001d84       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(sleep.o)
+ .debug_frame   0x00001dac       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(socket.o)
+ .debug_frame   0x00001dd4       0x40 ../newlib/build/lib/arm-frosted/lib/libgloss.a(stat.o)
+ .debug_frame   0x00001e14      0x208 ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscalls.o)
+ .debug_frame   0x0000201c      0x760 ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscall_table.o)
+ .debug_frame   0x0000277c       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(tcgetattr.o)
+ .debug_frame   0x000027a4       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(unlink.o)
+ .debug_frame   0x000027cc       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(vfork.o)
+ .debug_frame   0x000027f4       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(wait.o)
+ .debug_frame   0x0000281c       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(waitpid.o)
+ .debug_frame   0x00002844       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(write.o)
+ .debug_frame   0x0000286c       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(fork.o)
+ .debug_frame   0x0000288c       0x20 ../newlib/build/lib/arm-frosted/lib/libgloss.a(fstat.o)
+ .debug_frame   0x000028ac       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(lseek.o)
+ .debug_frame   0x000028d4       0x38 ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscall.o)
+ .debug_frame   0x0000290c       0x28 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-calloc.o)
+ .debug_frame   0x00002934       0x28 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-callocr.o)
+ .debug_frame   0x0000295c       0x28 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-realloc.o)
+ .debug_frame   0x00002984       0x20 /opt/toolchains/gcc-arm/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libg_nano.a(lib_a-sysgettod.o)
+ .debug_frame   0x000029a4       0x2c /opt/toolchains/gcc-arm/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m/libg_nano.a(lib_a-gettimeofdayr.o)
+
+.debug_str      0x00000000     0x3150
+ *(.debug_str)
+ .debug_str     0x00000000      0x1c6 init_bflt.o
+                                0x20f (size before relaxing)
+ .debug_str     0x000001c6      0x3aa fresh.o
+                                0x5fc (size before relaxing)
+ .debug_str     0x00000570      0x4ec binutils.o
+                                0x897 (size before relaxing)
+ .debug_str     0x00000a5c       0x24 stubs.o
+                                0x1fe (size before relaxing)
+ .debug_str     0x00000a80      0x15b ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-atoi.o)
+                                0x5a3 (size before relaxing)
+ .debug_str     0x00000bdb       0x38 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-environ.o)
+                                0x173 (size before relaxing)
+ .debug_str     0x00000c13       0x3c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-exit.o)
+                                0x5b3 (size before relaxing)
+ .debug_str     0x00000c4f       0x91 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fprintf.o)
+                                0x5e1 (size before relaxing)
+ .debug_str     0x00000ce0       0x3b ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getenv.o)
+                                0x5c0 (size before relaxing)
+ .debug_str     0x00000d1b       0x56 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getenv_r.o)
+                                0x5d7 (size before relaxing)
+ .debug_str     0x00000d71      0x1cc ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getopt.o)
+                                0x78d (size before relaxing)
+ .debug_str     0x00000f3d       0x73 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-impure.o)
+                                0x5c1 (size before relaxing)
+ .debug_str     0x00000fb0      0x244 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-locale.o)
+                                0x817 (size before relaxing)
+ .debug_str     0x000011f4       0x37 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-malloc.o)
+                                0x5c3 (size before relaxing)
+ .debug_str     0x0000122b      0x1ee ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-mallocr.o)
+                                0x798 (size before relaxing)
+ .debug_str     0x00001419       0x70 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memcmp.o)
+                                0x1f0 (size before relaxing)
+ .debug_str     0x00001489       0x96 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memcpy-stub.o)
+                                0x216 (size before relaxing)
+ .debug_str     0x0000151f       0x32 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memset.o)
+                                0x1f0 (size before relaxing)
+ .debug_str     0x00001551       0x5d ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-mlock.o)
+                                0x5ca (size before relaxing)
+ .debug_str     0x000015ae      0x224 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf.o)
+                                0x715 (size before relaxing)
+ .debug_str     0x000017d2       0x34 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-printf.o)
+                                0x5d9 (size before relaxing)
+ .debug_str     0x00001806       0x46 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-sbrkr.o)
+                                0x5b8 (size before relaxing)
+ .debug_str     0x0000184c       0x3c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-setenv.o)
+                                0x5c7 (size before relaxing)
+ .debug_str     0x00001888       0x53 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-setenv_r.o)
+                                0x5fd (size before relaxing)
+ .debug_str     0x000018db       0xc3 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-signal.o)
+                                0x614 (size before relaxing)
+ .debug_str     0x0000199e       0x3d ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-signalr.o)
+                                0x5bd (size before relaxing)
+ .debug_str     0x000019db       0x41 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-snprintf.o)
+                                0x5f0 (size before relaxing)
+ .debug_str     0x00001a1c       0x32 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strchr.o)
+                                0x1e9 (size before relaxing)
+ .debug_str     0x00001a4e       0x3a ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strcpy.o)
+                                0x1f6 (size before relaxing)
+ .debug_str     0x00001a88       0x34 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncat.o)
+                                0x1f2 (size before relaxing)
+ .debug_str     0x00001abc       0x34 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncmp.o)
+                                0x1f2 (size before relaxing)
+ .debug_str     0x00001af0       0x40 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncpy.o)
+                                0x20e (size before relaxing)
+ .debug_str     0x00001b30       0x32 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtok.o)
+                                0x5b7 (size before relaxing)
+ .debug_str     0x00001b62       0x5c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtok_r.o)
+                                0x222 (size before relaxing)
+ .debug_str     0x00001bbe       0x56 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtol.o)
+                                0x5e7 (size before relaxing)
+ .debug_str     0x00001c14       0x68 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-tolower.o)
+                                0x16a (size before relaxing)
+ .debug_str     0x00001c7c       0x3a ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wbuf.o)
+                                0x5c7 (size before relaxing)
+ .debug_str     0x00001cb6       0x36 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wsetup.o)
+                                0x5c3 (size before relaxing)
+ .debug_str     0x00001cec       0x5f ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-__call_atexit.o)
+                                0x5e9 (size before relaxing)
+ .debug_str     0x00001d4b       0x32 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-ctype_.o)
+                                0x172 (size before relaxing)
+ .debug_str     0x00001d7d       0x56 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-envlock.o)
+                                0x5c3 (size before relaxing)
+ .debug_str     0x00001dd3       0x6e ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-errno.o)
+                                0x5a9 (size before relaxing)
+ .debug_str     0x00001e41       0x57 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fflush.o)
+                                0x604 (size before relaxing)
+ .debug_str     0x00001e98      0x10e ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-findfp.o)
+                                0x6bc (size before relaxing)
+ .debug_str     0x00001fa6       0x38 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputc.o)
+                                0x5d1 (size before relaxing)
+ .debug_str     0x00001fde       0x38 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputs.o)
+                                0x60f (size before relaxing)
+ .debug_str     0x00002016       0x3d ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputwc.o)
+                                0x5e6 (size before relaxing)
+ .debug_str     0x00002053       0x3c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-freer.o)
+                                0x6ea (size before relaxing)
+ .debug_str     0x0000208f       0x56 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fvwrite.o)
+                                0x60a (size before relaxing)
+ .debug_str     0x000020e5       0x4c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fwalk.o)
+                                0x5c6 (size before relaxing)
+ .debug_str     0x00002131       0x43 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-makebuf.o)
+                                0x6a6 (size before relaxing)
+ .debug_str     0x00002174       0x4f ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memchr-stub.o)
+                                0x212 (size before relaxing)
+ .debug_str     0x000021c3       0x3d ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memmove.o)
+                                0x20b (size before relaxing)
+ .debug_str     0x00002200       0x24 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-svfprintf.o)
+                                0x6e7 (size before relaxing)
+ .debug_str     0x00002224       0x95 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf_i.o)
+                                0x6ca (size before relaxing)
+ .debug_str     0x000022b9       0x30 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-putc.o)
+                                0x5c9 (size before relaxing)
+ .debug_str     0x000022e9       0x59 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-reallocr.o)
+                                0x66a (size before relaxing)
+ .debug_str     0x00002342       0x55 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-reent.o)
+                                0x5d8 (size before relaxing)
+ .debug_str     0x00002397       0x5d ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-stdio.o)
+                                0x5f2 (size before relaxing)
+ .debug_str     0x000023f4       0x4f ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wcrtomb.o)
+                                0x5e1 (size before relaxing)
+ .debug_str     0x00002443       0x4d ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wctomb_r.o)
+                                0x5f0 (size before relaxing)
+ .debug_str     0x00002490       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-writer.o)
+                                0x5b5 (size before relaxing)
+ .debug_str     0x000024c3       0x33 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-closer.o)
+                                0x5a5 (size before relaxing)
+ .debug_str     0x000024f6       0x3b ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fclose.o)
+                                0x5cd (size before relaxing)
+ .debug_str     0x00002531       0x40 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fstatr.o)
+                                0x698 (size before relaxing)
+ .debug_str     0x00002571       0x35 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-isattyr.o)
+                                0x5af (size before relaxing)
+ .debug_str     0x000025a6       0x3a ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-lseekr.o)
+                                0x5b3 (size before relaxing)
+ .debug_str     0x000025e0       0x31 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-readr.o)
+                                0x5b3 (size before relaxing)
+ .debug_str     0x00002611      0x17b ../newlib/build/lib/arm-frosted/lib/libgloss.a(chdir.o)
+                                0x213 (size before relaxing)
+ .debug_str     0x0000278c       0x29 ../newlib/build/lib/arm-frosted/lib/libgloss.a(close.o)
+                                0x20e (size before relaxing)
+ .debug_str     0x000027b5       0x2c ../newlib/build/lib/arm-frosted/lib/libgloss.a(closedir.o)
+                                0x214 (size before relaxing)
+ .debug_str     0x000027e1       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(crt0.o)
+                                0x20e (size before relaxing)
+ .debug_str     0x00002809       0x2e ../newlib/build/lib/arm-frosted/lib/libgloss.a(dup2.o)
+                                0x212 (size before relaxing)
+ .debug_str     0x00002837       0x27 ../newlib/build/lib/arm-frosted/lib/libgloss.a(dup.o)
+                                0x206 (size before relaxing)
+ .debug_str     0x0000285e       0x3a ../newlib/build/lib/arm-frosted/lib/libgloss.a(exec.o)
+                                0x23a (size before relaxing)
+ .debug_str     0x00002898       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(exit.o)
+                                0x20d (size before relaxing)
+ .debug_str     0x000028c0       0x2a ../newlib/build/lib/arm-frosted/lib/libgloss.a(getcwd.o)
+                                0x215 (size before relaxing)
+ .debug_str     0x000028ea       0x2a ../newlib/build/lib/arm-frosted/lib/libgloss.a(getpid.o)
+                                0x210 (size before relaxing)
+ .debug_str     0x00002914       0x2b ../newlib/build/lib/arm-frosted/lib/libgloss.a(getppid.o)
+                                0x212 (size before relaxing)
+ .debug_str     0x0000293f       0x2a ../newlib/build/lib/arm-frosted/lib/libgloss.a(isatty.o)
+                                0x210 (size before relaxing)
+ .debug_str     0x00002969       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(kill.o)
+                                0x20c (size before relaxing)
+ .debug_str     0x00002991       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(link.o)
+                                0x20c (size before relaxing)
+ .debug_str     0x000029b9       0x29 ../newlib/build/lib/arm-frosted/lib/libgloss.a(mkdir.o)
+                                0x21f (size before relaxing)
+ .debug_str     0x000029e2       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(open.o)
+                                0x21c (size before relaxing)
+ .debug_str     0x00002a0a       0x2b ../newlib/build/lib/arm-frosted/lib/libgloss.a(opendir.o)
+                                0x217 (size before relaxing)
+ .debug_str     0x00002a35       0x2d ../newlib/build/lib/arm-frosted/lib/libgloss.a(pipe.o)
+                                0x218 (size before relaxing)
+ .debug_str     0x00002a62       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(read.o)
+                                0x211 (size before relaxing)
+ .debug_str     0x00002a8a       0x2b ../newlib/build/lib/arm-frosted/lib/libgloss.a(readdir.o)
+                                0x23a (size before relaxing)
+ .debug_str     0x00002ab5       0x29 ../newlib/build/lib/arm-frosted/lib/libgloss.a(sleep.o)
+                                0x20e (size before relaxing)
+ .debug_str     0x00002ade       0x37 ../newlib/build/lib/arm-frosted/lib/libgloss.a(socket.o)
+                                0x222 (size before relaxing)
+ .debug_str     0x00002b15       0x2e ../newlib/build/lib/arm-frosted/lib/libgloss.a(stat.o)
+                                0x217 (size before relaxing)
+ .debug_str     0x00002b43       0x63 ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscalls.o)
+                                0x345 (size before relaxing)
+ .debug_str     0x00002ba6      0x35c ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscall_table.o)
+                                0x549 (size before relaxing)
+ .debug_str     0x00002f02       0x37 ../newlib/build/lib/arm-frosted/lib/libgloss.a(tcgetattr.o)
+                                0x27c (size before relaxing)
+ .debug_str     0x00002f39       0x2a ../newlib/build/lib/arm-frosted/lib/libgloss.a(unlink.o)
+                                0x215 (size before relaxing)
+ .debug_str     0x00002f63       0x30 ../newlib/build/lib/arm-frosted/lib/libgloss.a(vfork.o)
+                                0x22c (size before relaxing)
+ .debug_str     0x00002f93       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(wait.o)
+                                0x225 (size before relaxing)
+ .debug_str     0x00002fbb       0x3c ../newlib/build/lib/arm-frosted/lib/libgloss.a(waitpid.o)
+                                0x235 (size before relaxing)
+ .debug_str     0x00002ff7       0x29 ../newlib/build/lib/arm-frosted/lib/libgloss.a(write.o)
+                                0x213 (size before relaxing)
+ .debug_str     0x00003020       0x28 ../newlib/build/lib/arm-frosted/lib/libgloss.a(fork.o)
+                                0x212 (size before relaxing)
+ .debug_str     0x00003048       0x30 ../newlib/build/lib/arm-frosted/lib/libgloss.a(fstat.o)
+                                0x220 (size before relaxing)
+ .debug_str     0x00003078       0x29 ../newlib/build/lib/arm-frosted/lib/libgloss.a(lseek.o)
+                                0x21c (size before relaxing)
+ .debug_str     0x000030a1       0x3f ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscall.o)
+                                0x245 (size before relaxing)
+ .debug_str     0x000030e0       0x2b ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-calloc.o)
+                                0x5b7 (size before relaxing)
+ .debug_str     0x0000310b       0x19 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-callocr.o)
+                                0x5e9 (size before relaxing)
+ .debug_str     0x00003124       0x2c ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-realloc.o)
+                                0x5bb (size before relaxing)
+
+.debug_loc      0x00000000     0x91b4
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x63 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-atoi.o)
+ .debug_loc     0x00000063       0x1e ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-exit.o)
+ .debug_loc     0x00000081       0x6e ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fprintf.o)
+ .debug_loc     0x000000ef       0x8f ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getenv.o)
+ .debug_loc     0x0000017e      0x12a ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getenv_r.o)
+ .debug_loc     0x000002a8      0xa0d ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-getopt.o)
+ .debug_loc     0x00000cb5      0x163 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-locale.o)
+ .debug_loc     0x00000e18       0x58 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-malloc.o)
+ .debug_loc     0x00000e70      0x734 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-mallocr.o)
+ .debug_loc     0x000015a4       0xe1 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memcmp.o)
+ .debug_loc     0x00001685       0x87 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memcpy-stub.o)
+ .debug_loc     0x0000170c       0x49 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memset.o)
+ .debug_loc     0x00001755      0x5ee ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf.o)
+ .debug_loc     0x00001d43       0x34 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-printf.o)
+ .debug_loc     0x00001d77       0x4d ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-sbrkr.o)
+ .debug_loc     0x00001dc4       0xc6 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-setenv.o)
+ .debug_loc     0x00001e8a      0x2ef ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-setenv_r.o)
+ .debug_loc     0x00002179      0x42d ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-signal.o)
+ .debug_loc     0x000025a6       0x9a ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-signalr.o)
+ .debug_loc     0x00002640      0x153 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-snprintf.o)
+ .debug_loc     0x00002793       0x6b ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strchr.o)
+ .debug_loc     0x000027fe       0x21 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strcpy.o)
+ .debug_loc     0x0000281f       0x82 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncat.o)
+ .debug_loc     0x000028a1       0x8b ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncmp.o)
+ .debug_loc     0x0000292c       0xc5 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strncpy.o)
+ .debug_loc     0x000029f1       0x42 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtok.o)
+ .debug_loc     0x00002a33      0x1a3 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtok_r.o)
+ .debug_loc     0x00002bd6      0x35f ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strtol.o)
+ .debug_loc     0x00002f35       0x21 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-tolower.o)
+ .debug_loc     0x00002f56      0x121 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wbuf.o)
+ .debug_loc     0x00003077       0x6b ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wsetup.o)
+ .debug_loc     0x000030e2      0x1ac ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-__call_atexit.o)
+ .debug_loc     0x0000328e      0x1e8 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fflush.o)
+ .debug_loc     0x00003476      0x20e ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-findfp.o)
+ .debug_loc     0x00003684       0xe7 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputc.o)
+ .debug_loc     0x0000376b       0xfd ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputs.o)
+ .debug_loc     0x00003868      0x1b1 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fputwc.o)
+ .debug_loc     0x00003a19      0x3e5 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-freer.o)
+ .debug_loc     0x00003dfe      0x594 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fvwrite.o)
+ .debug_loc     0x00004392      0x11f ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fwalk.o)
+ .debug_loc     0x000044b1       0xf9 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-makebuf.o)
+ .debug_loc     0x000045aa       0xaa ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memchr-stub.o)
+ .debug_loc     0x00004654       0xde ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-memmove.o)
+ .debug_loc     0x00004732      0x5b4 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-svfprintf.o)
+ .debug_loc     0x00004ce6      0x4bc ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf_i.o)
+ .debug_loc     0x000051a2       0xfd ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-putc.o)
+ .debug_loc     0x0000529f      0xd0e ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-reallocr.o)
+ .debug_loc     0x00005fad       0xf1 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-reent.o)
+ .debug_loc     0x0000609e      0x231 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-stdio.o)
+ .debug_loc     0x000062cf      0x195 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wcrtomb.o)
+ .debug_loc     0x00006464      0x116 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wctomb_r.o)
+ .debug_loc     0x0000657a       0xb0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-writer.o)
+ .debug_loc     0x0000662a       0x4d ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-closer.o)
+ .debug_loc     0x00006677      0x147 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fclose.o)
+ .debug_loc     0x000067be       0x79 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-fstatr.o)
+ .debug_loc     0x00006837       0x4d ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-isattyr.o)
+ .debug_loc     0x00006884       0xb0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-lseekr.o)
+ .debug_loc     0x00006934       0xb0 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-readr.o)
+ .debug_loc     0x000069e4       0x21 ../newlib/build/lib/arm-frosted/lib/libgloss.a(chdir.o)
+ .debug_loc     0x00006a05       0x21 ../newlib/build/lib/arm-frosted/lib/libgloss.a(close.o)
+ .debug_loc     0x00006a26       0x21 ../newlib/build/lib/arm-frosted/lib/libgloss.a(closedir.o)
+ .debug_loc     0x00006a47       0x13 ../newlib/build/lib/arm-frosted/lib/libgloss.a(crt0.o)
+ .debug_loc     0x00006a5a       0x42 ../newlib/build/lib/arm-frosted/lib/libgloss.a(dup2.o)
+ .debug_loc     0x00006a9c       0x21 ../newlib/build/lib/arm-frosted/lib/libgloss.a(dup.o)
+ .debug_loc     0x00006abd      0x16b ../newlib/build/lib/arm-frosted/lib/libgloss.a(exec.o)
+ .debug_loc     0x00006c28       0x21 ../newlib/build/lib/arm-frosted/lib/libgloss.a(exit.o)
+ .debug_loc     0x00006c49       0x42 ../newlib/build/lib/arm-frosted/lib/libgloss.a(getcwd.o)
+ .debug_loc     0x00006c8b       0x21 ../newlib/build/lib/arm-frosted/lib/libgloss.a(isatty.o)
+ .debug_loc     0x00006cac       0x42 ../newlib/build/lib/arm-frosted/lib/libgloss.a(kill.o)
+ .debug_loc     0x00006cee       0x42 ../newlib/build/lib/arm-frosted/lib/libgloss.a(link.o)
+ .debug_loc     0x00006d30       0x42 ../newlib/build/lib/arm-frosted/lib/libgloss.a(mkdir.o)
+ .debug_loc     0x00006d72       0x63 ../newlib/build/lib/arm-frosted/lib/libgloss.a(open.o)
+ .debug_loc     0x00006dd5       0x21 ../newlib/build/lib/arm-frosted/lib/libgloss.a(opendir.o)
+ .debug_loc     0x00006df6       0x63 ../newlib/build/lib/arm-frosted/lib/libgloss.a(pipe.o)
+ .debug_loc     0x00006e59       0x63 ../newlib/build/lib/arm-frosted/lib/libgloss.a(read.o)
+ .debug_loc     0x00006ebc       0x42 ../newlib/build/lib/arm-frosted/lib/libgloss.a(readdir.o)
+ .debug_loc     0x00006efe       0x21 ../newlib/build/lib/arm-frosted/lib/libgloss.a(sleep.o)
+ .debug_loc     0x00006f1f       0x63 ../newlib/build/lib/arm-frosted/lib/libgloss.a(socket.o)
+ .debug_loc     0x00006f82       0x84 ../newlib/build/lib/arm-frosted/lib/libgloss.a(stat.o)
+ .debug_loc     0x00007006      0x4a4 ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscalls.o)
+ .debug_loc     0x000074aa     0x176b ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscall_table.o)
+ .debug_loc     0x00008c15       0x42 ../newlib/build/lib/arm-frosted/lib/libgloss.a(tcgetattr.o)
+ .debug_loc     0x00008c57       0x21 ../newlib/build/lib/arm-frosted/lib/libgloss.a(unlink.o)
+ .debug_loc     0x00008c78       0x1e ../newlib/build/lib/arm-frosted/lib/libgloss.a(vfork.o)
+ .debug_loc     0x00008c96       0x2c ../newlib/build/lib/arm-frosted/lib/libgloss.a(wait.o)
+ .debug_loc     0x00008cc2       0x63 ../newlib/build/lib/arm-frosted/lib/libgloss.a(waitpid.o)
+ .debug_loc     0x00008d25       0x63 ../newlib/build/lib/arm-frosted/lib/libgloss.a(write.o)
+ .debug_loc     0x00008d88       0x21 ../newlib/build/lib/arm-frosted/lib/libgloss.a(fstat.o)
+ .debug_loc     0x00008da9       0x63 ../newlib/build/lib/arm-frosted/lib/libgloss.a(lseek.o)
+ .debug_loc     0x00008e0c       0xf0 ../newlib/build/lib/arm-frosted/lib/libgloss.a(syscall.o)
+ .debug_loc     0x00008efc       0x63 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-calloc.o)
+ .debug_loc     0x00008f5f      0x1f2 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-callocr.o)
+ .debug_loc     0x00009151       0x63 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-realloc.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+OUTPUT(apps.gdb elf32-littlearm)
+
+.debug_ranges   0x00000000      0x270
+ .debug_ranges  0x00000000       0x20 init_bflt.o
+ .debug_ranges  0x00000020       0x88 fresh.o
+ .debug_ranges  0x000000a8       0xc8 binutils.o
+ .debug_ranges  0x00000170       0x28 stubs.o
+ .debug_ranges  0x00000198       0x18 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf.o)
+ .debug_ranges  0x000001b0       0x10 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-strcpy.o)
+ .debug_ranges  0x000001c0       0x20 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-wsetup.o)
+ .debug_ranges  0x000001e0       0x18 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-__call_atexit.o)
+ .debug_ranges  0x000001f8       0x30 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-svfprintf.o)
+ .debug_ranges  0x00000228       0x30 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-nano-vfprintf_i.o)
+ .debug_ranges  0x00000258       0x18 ../newlib/build/lib/arm-frosted/lib/libc.a(lib_a-reallocr.o)
