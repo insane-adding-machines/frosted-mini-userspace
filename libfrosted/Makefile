@@ -10,7 +10,7 @@ CFLAGS+=-mcpu=cortex-m3 -mthumb -mlittle-endian -mthumb-interwork -fno-common
 CFLAGS+=-DCORE_M3 -DARCH_$(ARCH)
 CFLAGS+=-DKLOG_LEVEL=6
 #Include paths
-CFLAGS+=-I. -I$(FROSTED)/include -I../newlib/include
+CFLAGS+=-I. -I$(FROSTED)/include -I$(FROSTED)/newlib/include
 #Freestanding options
 CFLAGS+=-fno-builtin
 CFLAGS+=-ffreestanding
@@ -114,13 +114,11 @@ OBJS-y+=						\
 CFLAGS+=$(CFLAGS-y)
 
 
-all: $(OBJS-y)
-	@echo -e "\t[AR] $(PREFIX)/lib/$(LIBNAME)"
-	@mkdir -p $(PREFIX)/lib
-	@$(AR) cru $(PREFIX)/lib/$(LIBNAME) $(OBJS-y)
+all: $(OBJS-y) 
+	@echo -e "\t[AR] ../$(LIBNAME)"
+	@$(AR) cru ../$(LIBNAME) $(OBJS-y)
 
 clean:
-	@rm -f syscall_table.c
 	@rm -f $(OBJS-y)
-	@rm -f $(PREFIX)/lib/$(LIBNAME)
+	@rm -f ../$(LIBNAME)
 

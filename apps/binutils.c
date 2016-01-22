@@ -53,13 +53,7 @@
 #define BUFSIZE 256
 #define MAXFILES 13
 
-#ifdef LM3S
-#  define ARCH	"LM3S"
-#elif defined LPC17XX
-#  define ARCH	"LPC17XX"
-#elif defined STM32F4
-#  define ARCH	"STM32F4"
-#endif
+#define ARCH	"Unknown"
 
 static inline int nargs( void** argv ){
     int argc = 0;
