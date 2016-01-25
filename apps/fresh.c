@@ -72,6 +72,7 @@ const struct binutils bin_table[] = {
     {"kill", bin_kill },
     {"realloc",bin_test_realloc},
     {"doublefree",bin_test_doublefree},
+    {"grep", bin_grep},
     {"", NULL}
 };
 

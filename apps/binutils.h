@@ -29,4 +29,5 @@ int bin_kmem_fault(void **args);
 int bin_kill(void **args);
 int bin_test_realloc(void **args);
 int bin_test_doublefree(void **args);
+int bin_grep(void **args);
 #endif
