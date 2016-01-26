@@ -68,6 +68,7 @@ OBJS-y+=						\
 		recvfrom.o				\
 		resource.o				\
 		stat.o					\
+		string.o				\
 		sem_init.o				\
 		semaphore.o				\
 		sigaction.o				\
