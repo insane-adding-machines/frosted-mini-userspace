@@ -33,5 +33,7 @@ libfrosted.a: libfrosted
 clean:
 	make -C apps clean
 	make -C libfrosted clean
+	@rm -f apps.elf
+	@rm -f apps.map
 
 
