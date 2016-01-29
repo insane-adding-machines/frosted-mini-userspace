@@ -12,8 +12,8 @@ CFLAGS+=-DKLOG_LEVEL=6
 #Include paths
 CFLAGS+=-I. -I$(FROSTED)/include -I$(FROSTED)/newlib/include
 #Freestanding options
-CFLAGS+=-fno-builtin
-CFLAGS+=-ffreestanding
+#CFLAGS+=-fno-builtin
+#CFLAGS+=-ffreestanding
 # GOTPIC CFLAGS
 #CFLAGS+=-fPIC -mword-relocations -mlong-calls -fno-common -msingle-pic-base -mpic-register=r9 -mno-pic-data-is-text-relative
 #Debugging

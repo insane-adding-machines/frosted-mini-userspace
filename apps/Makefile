@@ -39,4 +39,3 @@ apps.bflt: $(FROSTED)/build/lib/libfrosted.a $(APPS-y)
 clean:
 	@rm -f *.o
 	@rm -f apps.bflt
-	@echo Clean!
