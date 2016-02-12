@@ -18,7 +18,7 @@ AS:=$(CROSS_COMPILE)as
 AR:=$(CROSS_COMPILE)ar
 
 # COMPILER FLAGS
-CFLAGS+=-I$(FROSTED)/kernel/libopencm3/include -I$(FROSTED)/kernel -I$(FROSTED)/include -I$(FROSTED)/include/libc -I$(FROSTED)/newlib/include
+CFLAGS+=-I$(FROSTED)/kernel/libopencm3/include -I$(FROSTED)/kernel -I$(FROSTED)/include -I$(FROSTED)/include/libc -I$(FROSTED)/include/libc
 CFLAGS+=-mthumb -mlittle-endian -mthumb-interwork -fno-builtin -ffunction-sections -mcpu=cortex-m3 -nostartfiles
 CFLAGS+=-DCORE_M3 -DKLOG_LEVEL=6 -D__frosted__
 # GOTPIC CFLAGS

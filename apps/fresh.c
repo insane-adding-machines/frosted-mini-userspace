@@ -37,8 +37,9 @@
 #define LIMIT 16 // max number of tokens for a command
 #define MAXLINE 256 // max number of characters from user input
 #define SERIAL_DEV "/dev/ttyS0"
-static char currentDirectory[128];
-static char lastcmd[128] = "";
+
+char currentDirectory[128] = "/";
+char lastcmd[128] = "";
 
 struct binutils {
     char name[32];
@@ -137,48 +138,6 @@ void shell_init(void){
         GBSH_PID = getpid();
         // The shell is interactive if STDIN is the terminal
         GBSH_IS_INTERACTIVE = isatty(STDIN_FILENO);
-
-        if (GBSH_IS_INTERACTIVE) {
-        	// Loop until we are in the foreground
-        	while (tcgetpgrp(STDIN_FILENO) != (GBSH_PGID = getpgrp()))
-        			kill(GBSH_PID, SIGTTIN);
-
-
-            // Set the signal handlers for SIGCHILD and SIGINT
-        	act_child.sa_handler = signalHandler_child;
-        	act_int.sa_handler = signalHandler_int;
-
-        	/**The sigaction structure is defined as something like
-
-        	struct sigaction {
-        		void (*sa_handler)(int);
-        		void (*sa_sigaction)(int, siginfo_t *, void *);
-        		sigset_t sa_mask;
-        		int sa_flags;
-        		void (*sa_restorer)(void);
-
-        	}*/
-
-        	//sigaction(SIGCHLD, &act_child, 0);
-        	//sigaction(SIGINT, &act_int, 0);
-
-        	// Put ourselves in our own process group
-        	setpgid(GBSH_PID, GBSH_PID); // we make the shell process the new process group leader
-        	GBSH_PGID = getpgrp();
-        	if (GBSH_PID != GBSH_PGID) {
-        			printf("Error, the shell is not process group leader");
-        			exit(EXIT_FAILURE);
-        	}
-        	// Grab control of the terminal
-        	tcsetpgrp(STDIN_FILENO, GBSH_PGID);
-
-        	// Save default terminal attributes for shell
-        	tcgetattr(STDIN_FILENO, &GBSH_TMODES);
-
-        } else {
-                printf("Could not make the shell interactive.\r\n");
-                exit(EXIT_FAILURE);
-        }
 }
 
 /**

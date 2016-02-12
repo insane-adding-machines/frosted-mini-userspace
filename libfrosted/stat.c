@@ -15,8 +15,7 @@ int stat(const char *file, struct stat *st)
     return sys_stat(file, st);
 }
 
-/* TODO: stub - lstat should stat symbolic links themselves, instead of following them */
 int lstat(const char *file, struct stat *st)
 {
-    return sys_stat(file, st);
+    return sys_lstat(file, st);
 }
